@@ -1,16 +1,16 @@
-# :tv: Movies and TV `26,505` (alloha)
+# :tv: Movies and TV `26,475` (alloha)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-04-29
-- Movies `17,320`
+### :date: 2021-04-30
+- Movies `17,291`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `16,351`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `16,514`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_tmdb_ids.json">TMDb IDs</a> `15,929`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_world_art_ids.json">World-Art IDs</a> `178`
   - [ ] Shikimori IDs `0`
   - [x] None IDs `195`
-- TV `9,185`
+- TV `9,184`
   - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `8,319`
   - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `7,260`
   - [x] <a href="https://API-Movies.github.io/alloha/tv_tmdb_ids.json">TMDb IDs</a> `512`
