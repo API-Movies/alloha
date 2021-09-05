@@ -1,22 +1,22 @@
-# :tv: Movies and TV `26,355` (alloha)
+# :tv: Movies and TV `26,445` (alloha)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-09-04
-- Movies `17,118`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `16,177`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `16,354`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_tmdb_ids.json">TMDb IDs</a> `15,792`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_world_art_ids.json">World-Art IDs</a> `167`
+### :date: 2021-09-05
+- Movies `17,162`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `16,217`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `16,395`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_tmdb_ids.json">TMDb IDs</a> `15,828`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_world_art_ids.json">World-Art IDs</a> `168`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `230`
-- TV `9,237`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `8,239`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `7,231`
+  - [x] None IDs `234`
+- TV `9,283`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `8,256`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `7,240`
   - [x] <a href="https://API-Movies.github.io/alloha/tv_tmdb_ids.json">TMDb IDs</a> `585`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_world_art_ids.json">World-Art IDs</a> `926`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_world_art_ids.json">World-Art IDs</a> `928`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `410`
+  - [x] None IDs `418`
 #### Test errors
 - <a href='https://api-movies.github.io/test.html#alloha'>https://api-movies.github.io/test.html#alloha</a>
 #### JSON API
