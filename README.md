@@ -2,7 +2,7 @@
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-09-13
+### :date: 2021-09-14
 - Movies `17,127`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `16,187`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `16,369`
