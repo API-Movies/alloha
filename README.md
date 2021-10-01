@@ -2,21 +2,21 @@
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-09-30
-- Movies `17,246`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `16,198`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `16,358`
+### :date: 2021-10-01
+- Movies `17,252`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `16,206`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `16,364`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_tmdb_ids.json">TMDb IDs</a> `15,749`
   - [x] <a href="https://API-Movies.github.io/alloha/movie_world_art_ids.json">World-Art IDs</a> `171`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `207`
-- TV `9,139`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `8,220`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `7,197`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_tmdb_ids.json">TMDb IDs</a> `883`
+  - [x] None IDs `206`
+- TV `9,133`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `8,219`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `7,195`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_tmdb_ids.json">TMDb IDs</a> `880`
   - [x] <a href="https://API-Movies.github.io/alloha/tv_world_art_ids.json">World-Art IDs</a> `936`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `414`
+  - [x] None IDs `415`
 #### Test errors
 - <a href='https://api-movies.github.io/test.html#alloha'>https://api-movies.github.io/test.html#alloha</a>
 #### JSON API
