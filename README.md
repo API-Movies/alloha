@@ -1,22 +1,22 @@
-# :tv: Movies and TV `38,002` (alloha)
+# :tv: Movies and TV `38,310` (alloha)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-11-27
-- Movies `25,998`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `23,570`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `23,778`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_tmdb_ids.json">TMDb IDs</a> `22,863`
-  - [x] <a href="https://API-Movies.github.io/alloha/movie_world_art_ids.json">World-Art IDs</a> `209`
+### :date: 2021-11-28
+- Movies `26,291`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `24,441`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_imdb_ids.json">IMDb IDs</a> `24,659`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_tmdb_ids.json">TMDb IDs</a> `23,696`
+  - [x] <a href="https://API-Movies.github.io/alloha/movie_world_art_ids.json">World-Art IDs</a> `215`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `399`
-- TV `12,004`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `10,144`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `9,029`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_tmdb_ids.json">TMDb IDs</a> `7,666`
-  - [x] <a href="https://API-Movies.github.io/alloha/tv_world_art_ids.json">World-Art IDs</a> `1,242`
+  - [x] None IDs `409`
+- TV `12,019`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `10,475`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_imdb_ids.json">IMDb IDs</a> `9,336`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_tmdb_ids.json">TMDb IDs</a> `7,929`
+  - [x] <a href="https://API-Movies.github.io/alloha/tv_world_art_ids.json">World-Art IDs</a> `1,291`
   - [ ] Shikimori IDs `0`
-  - [x] None IDs `689`
+  - [x] None IDs `704`
 #### Test errors
 - <a href='https://api-movies.github.io/test.html#alloha'>https://api-movies.github.io/test.html#alloha</a>
 #### JSON API
