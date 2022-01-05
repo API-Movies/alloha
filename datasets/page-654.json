@@ -1,119 +1,471 @@
 {
   "data": [
     {
-      "name": "Варя",
+      "name": "Гинденбург",
+      "original_name": "The Hindenburg",
+      "alternative_name": null,
+      "year": 1975,
+      "id_kp": 15108,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0073113",
+      "id_tmdb": 17599,
+      "id_world_art": null,
+      "token_movie": "d1b1acc30e1214c9c3302b2fdbaded",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 08:17:17",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма, приключения, триллер",
+      "actors": "Джордж К. Скотт, Энн Бэнкрофт, Уильям Этертон, Рой Тиннес, Гиг Янг, Бёрджесс Мередит, Чарльз Дёрнинг, Ричард А. Дайсарт, Роберт Клэри, Рене Обержонуа, Питер Донат, Алан Оппенхаймер, Кэтрин Хелмонд, Джоанна Мур, Стивен Эллиот, Джойс Дэвис, Джин Рэйси, Тэд Геринг, Лиза Пера, Джо Ди Реда",
+      "directors": "Роберт Уайз",
+      "producers": "Роберт Уайз",
+      "premiere_ru": null,
+      "premiere": "1975-12-25",
+      "age_restrictions": 12,
+      "rating_mpaa": "pg",
+      "rating_kp": 6.8,
+      "rating_imdb": 6.3,
+      "time": "02:05",
+      "tagline": "The truth at last? What really happened to The Hindenburg?",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/15108.jpg",
+      "description": "Фильм рассказывает о гибели самого крупного воздушного судна двадцатого века, огромного дирижабля-авианосца «Гинденбург», построенного как символ новой гитлеровской Германии. Под командованием Макса Прусса в 1937 году дирижабль отправился в своё последнее путешествие из Германии в Америку. Желая продемонстрировать американцам свою мощь, показав им «Гинденбург», никто из немецкого командования и не подозревал, что на его борту находится саботажник, планирующий взорвать воздушную гордость Германии.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "HDTVRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "HDTVRip",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Освобождение Эми Стронгхолд",
+      "original_name": "The Deliverance of Amy Stronghold",
+      "alternative_name": null,
+      "year": 2021,
+      "id_kp": 1237556,
+      "alternative_id_kp": null,
+      "id_imdb": "tt9735830",
+      "id_tmdb": 798084,
+      "id_world_art": null,
+      "token_movie": "72cafa8294575a438e2c1e1644f7b6",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:35:55",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Камерон Ли Прайс, Javier Schialer, Bruce Kaufman, Dave Shecter, Robert L. Butler Jr., Mckinlie Pontius, Joy Yaholkovsky, Belle Tatum, Ada Hurtado, Оливия Ковач, Darryl Robert Small, Giovanni Accettola, Шери Сутер, Wanna Choy, Yeshara Ruth, Ryan Postell, Nate Edmiston, Blair Gordon, Austen Daisa, Alexis Belmudes",
+      "directors": "Seth Himes",
+      "producers": "Рошелль Гордон, April Himes, Seth Himes, Ben Charles, Joseph Daisa, Mark Gilbaugh, Blair Gordon, Чад Гундерсен, Cathy Sellstrom",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": null,
+      "time": "01:36",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "План сердца",
+      "original_name": "Blueprint to the Heart",
+      "alternative_name": null,
+      "year": 2020,
+      "id_kp": 1356202,
+      "alternative_id_kp": null,
+      "id_imdb": "tt11916012",
+      "id_tmdb": 723444,
+      "id_world_art": null,
+      "token_movie": "67cbdbb9adc03ab031be6a74279fef",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:34:49",
+      "country": "Канада",
+      "category": "Фильм",
+      "genre": "мелодрама",
+      "actors": "Лора Митчелл, Дэннис Андрес, Кристал Балинт, Клэйтон Читти, Джоанна Ньюмарк, Нельсон Вонг, Quinnie Vu, Chris Carson, Тереса Лаверти, David Parent, Сафия Рени Рикеттс, Дэниэл Бэйкон, Тиган Винс, Scott Pocha, Кэролайн Адэйр",
+      "directors": "Джейсон Джеймс",
+      "producers": "Ричард Гринхалг, Жиль ЛаПланте, Sebastian Battro, Том Берри, Лоуренс Браун, Louisa Cadywould, Бриэнн Хартли",
+      "premiere_ru": null,
+      "premiere": "2020-06-13",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 6.3,
+      "time": "01:30",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1356202.jpg",
+      "description": "Дизайнер Тиффани ведет собственное шоу на телевидении. Она переделывает интерьер домов, придавая старым вещам более современный вид. Вот только рейтинг ее программы стремительно падает, поэтому ей срочно необходимо придумать план по спасению любимого дела. В итоге Тиффани решает поменять всю концепцию шоу. Теперь она будет менять не только дом, но и его хозяев. Ко всем проблемам женщины прибавляется и тот факт, что продюсером шоу становится ее бывший.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Выездка",
+      "original_name": "Dressage",
+      "alternative_name": null,
+      "year": 2018,
+      "id_kp": 1131484,
+      "alternative_id_kp": null,
+      "id_imdb": "tt8037650",
+      "id_tmdb": 499384,
+      "id_world_art": null,
+      "token_movie": "e02c44f3daca42f09cfb63d0a990ae",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:34:29",
+      "country": "Иран",
+      "category": "Фильм",
+      "genre": "драма, триллер",
+      "actors": "Negar Moghaddam, Yasna Mirtahmasb, Али Мосаффа, Shabnam Moghadami, Baset Rezaei, Alireza Aghakhani, Хушанг Таваколи, Behafarid Ghafarian, Shayan Fasihzadeh, Rambod Motalebi, Lotfollah Seifi, Алиреза Сани Фар, Jalal Fatemi, Сиамак Адиб",
+      "directors": "Pooya Badkoobeh",
+      "producers": "Rouhollah Baradari, Samira Baradari",
+      "premiere_ru": "2018-08-26",
+      "premiere": "2018-02-18",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5.6,
+      "time": "01:28",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1131484.jpg",
+      "description": "16-летняя Гольса живет с родителями в небольшом городке неподалеку от Тегерана. Большую часть своего времени она слоняется с друзьями по улицам. Однажды ребята совершают проступок, последствия которого гораздо серьезнее, чем они могли подумать. Эти события радикально меняют взгляды девушки на жизнь.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "За закрытыми дверями",
+      "original_name": "Behind Closed Doors",
+      "alternative_name": null,
+      "year": 2020,
+      "id_kp": 1384679,
+      "alternative_id_kp": null,
+      "id_imdb": "tt13690576",
+      "id_tmdb": 115161,
+      "id_world_art": null,
+      "token_movie": "fb65fb97e8416dbfb8e0cd36098b5c",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:34:02",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма, триллер",
+      "actors": "Allana De'Nai, Antrone Harris, Шелтон Джоливетт, Джелен Мак, Brandy Specks",
+      "directors": "Jonathan Milton",
+      "producers": "Johnnard Harper, Justin Milton, Брэнди Джамилль Браун, Allana De'Nai, Jonathan Milton, Carlos Wallace",
+      "premiere_ru": null,
+      "premiere": "2020-05-06",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5.1,
+      "time": "01:28",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Дельта",
+      "original_name": "Delt",
+      "alternative_name": null,
+      "year": 2020,
+      "id_kp": 1180622,
+      "alternative_id_kp": null,
+      "id_imdb": "tt8707572",
+      "id_tmdb": null,
+      "id_world_art": null,
+      "token_movie": "0f5aee27f7e57d45cad08e1f0df020",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:33:07",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма, комедия",
+      "actors": "Harrison Tweed, Mary Claire Smythe, Jon Schoss, Katherine Wadleigh, Victoria Hoffman, Molly Kornfeld, Jack Donahue, Eivind Hartmann, Joe Palacios, Billy Soco, Paddy Tubz, Shane Galante, Yun Hee Kim, Laura John, Andrew Widger, Dani Nolan, Kazi Ishraki, Howard Wolliaston, Paulina Mondragon, Albert Fusco",
+      "directors": "Shane Galante",
+      "producers": "Shane Galante",
+      "premiere_ru": null,
+      "premiere": "2019-05-22",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": null,
+      "time": "01:22",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Человек из ниоткуда",
+      "original_name": "The Man from Nowhere",
+      "alternative_name": null,
+      "year": 2021,
+      "id_kp": 1209197,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2304969",
+      "id_tmdb": 798083,
+      "id_world_art": null,
+      "token_movie": "22701e53592a927b5e7017fcd69209",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:31:11",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Ник Сирси, Брэдли Грегг, Рейли Макклендон, Джей Андервуд, Патрик Левис, Энтони Тайлер Куинн, Сет Боулинг, Реджи Дэвис, Лу Ричардс, Джэми Александр, Брайан Леммонс, Мэтт Грин, Том Паттон, Christian Johnson, Richard LaLonde, Rose Bretz, Mackenzie Kelly, Brooke Eaton, Jon Denys, Tricia Hulet",
+      "directors": "Мэтт Грин",
+      "producers": "Крис Даулинг, Мэтт Грин, Джон Салливан, Andrew Dexter, Bob Dickson, Debbie Dickson, Trent Jackson, Todd Kostjuk, Jenn Leite",
+      "premiere_ru": null,
+      "premiere": "2021-02-09",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5.5,
+      "time": "01:19",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1209197.jpg",
+      "description": "Знаменитый автор бестселлеров, узнав о своем смертельном диагнозе, совершает последнюю попытку примириться с сыном, которому раньше не уделял достаточно внимания.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Шок",
+      "original_name": "Shook",
+      "alternative_name": null,
+      "year": 2021,
+      "id_kp": 1138822,
+      "alternative_id_kp": null,
+      "id_imdb": "tt7211648",
+      "id_tmdb": 786627,
+      "id_world_art": null,
+      "token_movie": "66539d2aa3f3649cda707a8f4ea004",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:29:36",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "ужасы",
+      "actors": "Грант Розенмейер, Никки Поснер, Эмили Госс, Октавиус Дж. Джонсон, Дэйзи Тьютор, Jeremy Phillips",
+      "directors": "Дженнифер Хэррингтон",
+      "producers": "Тара Л. Крэйг",
+      "premiere_ru": null,
+      "premiere": "2021-02-18",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 4.2,
+      "time": "01:28",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1138822.jpg",
+      "description": "Миа, звезда социальных сетей, становится мишенью онлайн-атаки, и теперь ей надо решить несколько головоломок, чтобы не дать умереть своим близким.",
+      "iframe": "",
+      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=66539d2aa3f3649cda707a8f4ea004&token=",
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Осторожно, дети!",
       "original_name": null,
       "alternative_name": null,
       "year": 2020,
-      "id_kp": 1345724,
+      "id_kp": 1445206,
       "alternative_id_kp": null,
       "id_imdb": null,
       "id_tmdb": null,
       "id_world_art": null,
-      "token_movie": "625d23799b4220d0a798c22f7133c7",
+      "token_movie": "4f23c6b13539f597a0034b97a15255",
       "last_season": null,
       "last_episode": null,
-      "date": "2021-02-18 11:05:50",
+      "date": "2021-02-20 06:29:10",
       "country": "Россия",
       "category": "Фильм",
-      "genre": "драма, короткометражка",
-      "actors": "Варвара Шмыкова, Сергей Котюх, Николай Ковбас, Светлана Саягова",
-      "directors": "Ника Горбушина",
-      "producers": "Дарья Чигиринова",
-      "premiere_ru": "2020-09-17",
+      "genre": "комедия, мелодрама, семейный",
+      "actors": "Кирилл Жандаров, Елизавета Нилова, Елизавета Тихонова, Фёдор Лещев, Оксана Базилевич, Юрий Ицков",
+      "directors": "Анна Сичинская",
+      "producers": "Алексей Тельнов, Кристина Франчак",
+      "premiere_ru": null,
       "premiere": null,
-      "age_restrictions": 12,
+      "age_restrictions": 6,
       "rating_mpaa": null,
-      "rating_kp": 6.7,
+      "rating_kp": 7.1,
       "rating_imdb": null,
-      "time": "00:24",
+      "time": null,
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1345724.jpg",
-      "description": "Варя выбрала, как считается, не совсем женскую профессию — она хочет стать пожарным. Девушка приходит на стажировку в пожарную часть, где ей предстоит доказать всем, что она достойна быть здесь.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1445206.jpg",
+      "description": "Настя и Миша готовы отправиться на каникулы к бабушке, однако предстоящая поездка омрачается новостями о разводе родителей. В лихорадочном поиске решения проблемы Настя находит единственный выход – «потеряться» по дороге. Детям не страшно ехать одним, страшнее, что родители больше не вместе ",
       "iframe": "",
-      "iframe_trailer": null,
+      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=4f23c6b13539f597a0034b97a15255&token=",
       "category_id": 1,
-      "quality": "WEB-DLRip",
+      "quality": "WEB-DL",
       "translation": "Не требуется",
       "translation_iframe": {
         "82": {
           "name": "Не требуется",
-          "quality": "WEB-DLRip",
+          "quality": "WEB-DL",
           "iframe": "",
           "adv": false
         }
       }
     },
     {
-      "name": "Собачья жара",
-      "original_name": "Hundstage",
-      "alternative_name": "Dog Days",
-      "year": 2001,
-      "id_kp": 41885,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0290661",
-      "id_tmdb": 9025,
-      "id_world_art": null,
-      "token_movie": "a8f77e5fa3b85151e55685ec827d88",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 11:04:42",
-      "country": "Австрия",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Мария Хофштаттер, Альфред Мрва, Эрих Финшес, Герти Ленер, Франциска Вайс, Рене Ванко, Клаудия Мартини, Виктор Рэтбоун, Кристиан Баконий, Кристине Йирку, Viktor Hennemann, Георг Фридрих, Ingeborg Wehofer, Leopold Schlol, Silvia Piglmann, Карл Кристоф, Хенриетта Масло, Кристина Хорват, Norbert Raftl, Эдит Хельм",
-      "directors": "Ульрих Зайдль",
-      "producers": "Филипп Бобер, Гельмут Грассер",
-      "premiere_ru": "2002-04-11",
-      "premiere": "2001-09-03",
-      "age_restrictions": 18,
-      "rating_mpaa": "r",
-      "rating_kp": 6.4,
-      "rating_imdb": 7,
-      "time": "02:01",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/41885.jpg",
-      "description": "Собачья жара опустилась на пригород Вены, зажатый между автострадами, огромными гипермаркетами и новыми частными виллами. Дни текут лениво. Плавится асфальт, плавятся тела, и люди снимают с себя все, кроме трусов и бикини.\n\rНочью они пытаются забыться в алкоголе и сексе, но это приводит лишь к вспышкам ярости и насилия. Негде укрыться от удушающей жары. Напряжение растет вместе с повышением температуры.\n\rРасплавленные мозги окончательно выходят из-под контроля своих обладателей, превратившихся в обезумевших дикарей.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Профессиональный двухголосый",
-      "translation_iframe": {
-        "121": {
-          "name": "Профессиональный двухголосый",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Конец одной ночи",
-      "original_name": "Das Ende einer Nacht",
+      "name": "Неудобство",
+      "original_name": "El inconveniente",
       "alternative_name": null,
-      "year": 2012,
-      "id_kp": 671833,
+      "year": 2020,
+      "id_kp": 1223013,
       "alternative_id_kp": null,
-      "id_imdb": "tt2290247",
-      "id_tmdb": 100980,
+      "id_imdb": "tt9354422",
+      "id_tmdb": 677574,
       "id_world_art": null,
-      "token_movie": "78de6f141d6708a488258d9163fb68",
+      "token_movie": "6f5b34ed7c794de8ebbb3148f2f2e4",
       "last_season": null,
       "last_episode": null,
-      "date": "2021-02-18 11:03:17",
-      "country": "Германия",
+      "date": "2021-02-20 06:26:56",
+      "country": "Испания",
       "category": "Фильм",
-      "genre": "триллер",
-      "actors": "Барбара Ауэр, Ина Вайсе, Йорг Хартманн, Маттиас Брандт, Кристоф М.Орт, Катарина Лоренц, Александр Хёрбе, Йохан Адам Эст, Бернхард Шюц, Тобиас Эртель, Мелика Форутан, Кристина Хеке",
-      "directors": "Матти Гешоннек",
-      "producers": "Вольфганг Кимера, Рейнхольд Эльшот, Andrea Rullmann, Stefanie von Heydwolff",
+      "genre": "драма, комедия",
+      "actors": "Хосе Сакристан, Хуана Акоста, Кити Манвер, Карлос Аресес, Даниэль Грао, Eduardo Rejón, Christian Vendrell",
+      "directors": "Бернабэ Рико",
+      "producers": "Ольмо Фигередо, Маноло Лимон, Бернабэ Рико",
       "premiere_ru": null,
-      "premiere": "2012-03-26",
+      "premiere": "2020-08-24",
       "age_restrictions": null,
       "rating_mpaa": null,
       "rating_kp": null,
-      "rating_imdb": 7.4,
+      "rating_imdb": 6.5,
+      "time": "01:34",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1223013.jpg",
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Месть во плоти",
+      "original_name": "Revenge in Kind",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 998963,
+      "alternative_id_kp": null,
+      "id_imdb": "tt5906148",
+      "id_tmdb": 500681,
+      "id_world_art": null,
+      "token_movie": "342521073e02fc331ed88f58b71e46",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-20 06:26:33",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Чад Хэлбруук, Саша Хиггинс, Том Хёрд, Честер Лоуренс, Аманда Джой Эриксон, Абель Бесерра, Тони Херберт, Ада Перес, Мэтт Бэйли, Amin Hafsi, Mindy Neuendorff, Мишель Мейс, Гуинн Пауэлл, Джесси Коул, Sophia Knolton, Мэдисон Бриди, Пол Т. Тейлор, Мелисса Симпсон, Annie Karundethu, Шелби Чэмберс",
+      "directors": "Роджер Линдли",
+      "producers": "K.C. Bailey, Энджел Васкес",
+      "premiere_ru": null,
+      "premiere": "2017-12-13",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5.2,
       "time": "01:29",
       "tagline": null,
       "poster": null,
@@ -121,11 +473,403 @@
       "iframe": "",
       "iframe_trailer": null,
       "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Одноголосый закадровый",
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
       "translation_iframe": {
-        "75": {
-          "name": "Одноголосый закадровый",
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Моя левая сторона",
+      "original_name": "Sol Yanim",
+      "alternative_name": null,
+      "year": 2020,
+      "id_kp": 1408864,
+      "alternative_id_kp": null,
+      "id_imdb": "tt12687768",
+      "id_tmdb": 113720,
+      "id_world_art": null,
+      "token_movie": "ae9c08c8b50164973f039c49eb8a64",
+      "last_season": 1,
+      "last_episode": 12,
+      "date": "2021-02-19 23:18:54",
+      "country": "Турция",
+      "category": "Сериал",
+      "genre": "драма",
+      "actors": "Озге Ягыз, Толга Менди, Cemre Baysel, Emre Bey, Дефне Самйели, Джансель Эльчин, Эсра Безен Бильгин, Дениз Барут, Танер Румели, Tugçe Açikgöz, Ecem Atalay, Ergul Miray Sahin, Седа Акман, Бениан Дёнмез, Демет Генк, Феза Дживелек, Эмре Динлер, Yavuz Pekdiker, Айше Кырджа, Özgür Cem Tugluk",
+      "directors": "Барыш Йош, Сердар Гёзелекли",
+      "producers": "Неджати Акпынар, Ilkim Dagli",
+      "premiere_ru": null,
+      "premiere": "2020-11-26",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 7.4,
+      "time": "02:00",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1408864.jpg",
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 2,
+      "seasons_count": 1,
+      "seasons": {
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "12": {
+              "iframe": "",
+              "episode": 12,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "11": {
+              "iframe": "",
+              "episode": 11,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "10": {
+              "iframe": "",
+              "episode": 10,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "9": {
+              "iframe": "",
+              "episode": 9,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "8": {
+              "iframe": "",
+              "episode": 8,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "7": {
+              "iframe": "",
+              "episode": 7,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "88": {
+                  "translation": "Любительский двухголосый",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "WEB-DLRip, WEBRip",
+      "translation": "Любительский двухголосый",
+      "translation_iframe": {
+        "88": {
+          "name": "Любительский двухголосый",
+          "quality": "WEB-DLRip",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Раскопки",
+      "original_name": "Dig",
+      "alternative_name": "Раскопка",
+      "year": 2015,
+      "id_kp": 841568,
+      "alternative_id_kp": null,
+      "id_imdb": "tt3597606",
+      "id_tmdb": 62120,
+      "id_world_art": null,
+      "token_movie": "44d74d641b6ac866a494f1493a114a",
+      "last_season": 1,
+      "last_episode": 10,
+      "date": "2021-02-19 23:05:00",
+      "country": "США",
+      "category": "Сериал",
+      "genre": "детектив, драма, триллер",
+      "actors": "Джейсон Айзекс, Энн Хеч, Ори Феффер, Элисон Судол, Дэвид Костабайл, Анджела Беттис, Зен МакГрат, Ричард Э. Грант, Реджина Тейлор, Шмиль Бен Ари, Гай Селник, Лорен Эмброуз, Асси Коэн, Омар Метуолли, Ноа Тишби, Дин Чеквала, Трэвис Хаммер, Пол Алан Аменд, Эми Стюарт, Генри Давид",
+      "directors": "Гидеон Рафф, Милисент Шелтон, Аллан Аркуш, С.Дж. Кларксон",
+      "producers": "Рэнди Ричмонд, Джин Стейн, Марк Вайнмейкер, Брэдфорд Уинтерс, Лият Бенасули, Дженна Сантоианни",
+      "premiere_ru": null,
+      "premiere": "2015-03-05",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 6.2,
+      "rating_imdb": 6.8,
+      "time": "01:00",
+      "tagline": "The deeper you dig, the further you get from the truth.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/841568.jpg",
+      "description": "Питер, агент ФБР, базирующийся в Иерусалиме, в процессе расследования убийства молодой женщины-археолога открывает заговор, которому уже 2000 лет.",
+      "iframe": "",
+      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=44d74d641b6ac866a494f1493a114a&token=",
+      "category_id": 2,
+      "seasons_count": 1,
+      "seasons": {
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "10": {
+              "iframe": "",
+              "episode": 10,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "9": {
+              "iframe": "",
+              "episode": 9,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "8": {
+              "iframe": "",
+              "episode": 8,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "7": {
+              "iframe": "",
+              "episode": 7,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "39": {
+                  "translation": "Newstudio",
+                  "quality": "WEB-DL",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "WEB-DL",
+      "translation": "Newstudio",
+      "translation_iframe": {
+        "39": {
+          "name": "Newstudio",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Снежная королева",
+      "original_name": "Snow Queen",
+      "alternative_name": null,
+      "year": 2002,
+      "id_kp": 79752,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0210294",
+      "id_tmdb": 16174,
+      "id_world_art": null,
+      "token_movie": "6ddd365a775f8fa99640f3c31fa8af",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 23:00:54",
+      "country": "Германия, Канада, США",
+      "category": "Сериал",
+      "genre": "приключения, семейный, фэнтези",
+      "actors": "Бриджит Фонда, Джереми Гилбо, Челси Хоббс, Роберт Уизден, Ванда Кэннон, Меган Блэк, Дженнифер Клемент, Кира Клавелл, Сьюзи Хоаким, Дункан Фрайзер, Рэйчел Хейуорд, Джесси Боргстром, Роберт Д. Джонс, Александр Хой, Тревер Хавиксбэк, Хелена Йеа, Крис Поуп, Дэниэл Гиллис, Маркус Уэлби, Сэйдж Броклбэнк",
+      "directors": "Дэвид У",
+      "producers": "Мэттью О’Коннор, Майкл О’Коннор, Роберт Холми ст., Роберт Холми мл., Паскаль Верскурис",
+      "premiere_ru": null,
+      "premiere": "2002-12-07",
+      "age_restrictions": 12,
+      "rating_mpaa": null,
+      "rating_kp": 7.5,
+      "rating_imdb": 6.7,
+      "time": "3:00",
+      "tagline": "Where Winter Rules...",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/79752.jpg",
+      "description": "После трагической смерти матери Герта и ее отец продолжают содержать небольшую гостиницу, которую они называют домом. Для одинокой Герты единственной радостью является дружба с прекрасным юношей – Каем. И вот однажды ночью в гостиницу приезжает вся в мехах и бриллиантах неизвестная гостья. На следующий день она исчезает вместе с Каем.\n\rИ тогда Герта отправляется на поиски любимого юноши. Полная неожиданностей,  страшных опасностей и невероятных приключений дорога, наконец, приводит Герту во дворец Снежной Королевы. Но чтобы растопить ледяное сердце Кая надо победить самую жестокую и коварную из всех женщин. И только хрупкой, нежной и преданной Герте оказывается под силу спасти Кая.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 2,
+      "quality": "DVDRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "DVDRip",
           "iframe": "",
           "adv": false
@@ -133,35 +877,895 @@
       }
     },
     {
-      "name": "Секретарша",
-      "original_name": "Secretary",
+      "name": "Модный приговор",
+      "original_name": null,
       "alternative_name": null,
-      "year": 2002,
-      "id_kp": 820,
+      "year": 2007,
+      "id_kp": 747588,
       "alternative_id_kp": null,
-      "id_imdb": "tt0274812",
-      "id_tmdb": 11013,
+      "id_imdb": "tt2439928",
+      "id_tmdb": null,
       "id_world_art": null,
-      "token_movie": "cf4fef7f1fea3b3b84fde67c873701",
+      "token_movie": "b16fd9da94e7141e5584bb737d79a5",
+      "last_season": 2,
+      "last_episode": 15,
+      "date": "2021-02-19 21:53:29",
+      "country": "Россия",
+      "category": "TV-шоу",
+      "genre": "реальное ТВ",
+      "actors": "Александр Васильев, Мобильные блондинки, Антонина Клименко, Арина Шарапова, Надежда Бабкина, Лариса Гузеева, Вячеслав Зайцев, Сергей Епихин, Евгения Воржева, Алексей Беляев, Елена Ханга, Елена Башарина, Мария Киселева, Никита Епихин, Надежда Тимофеева, Зоя Милешина, Татьяна Макарова, Ирина Гостинник, Андрей Белов, Лариса Вербицкая",
+      "directors": "",
+      "producers": "",
+      "premiere_ru": "2007-07-30",
+      "premiere": "2007-07-30",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": 2.5,
+      "rating_imdb": 3.2,
+      "time": "00:50",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/747588.jpg",
+      "description": "Быть стильным, выразить себя, найти свою изюминку - это то, к чему стремится сейчас практически каждый человек. Как же этого достичь?",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 5,
+      "seasons_count": 2,
+      "seasons": {
+        "2": {
+          "iframe": "",
+          "season": 2,
+          "episodes": {
+            "15": {
+              "iframe": "",
+              "episode": 15,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "14": {
+              "iframe": "",
+              "episode": 14,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "13": {
+              "iframe": "",
+              "episode": 13,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "12": {
+              "iframe": "",
+              "episode": 12,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "11": {
+              "iframe": "",
+              "episode": 11,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "10": {
+              "iframe": "",
+              "episode": 10,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "9": {
+              "iframe": "",
+              "episode": 9,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "8": {
+              "iframe": "",
+              "episode": 8,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "7": {
+              "iframe": "",
+              "episode": 7,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEB-DLRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        },
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "21": {
+              "iframe": "",
+              "episode": 21,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "20": {
+              "iframe": "",
+              "episode": 20,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "19": {
+              "iframe": "",
+              "episode": 19,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "18": {
+              "iframe": "",
+              "episode": 18,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "17": {
+              "iframe": "",
+              "episode": 17,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "16": {
+              "iframe": "",
+              "episode": 16,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "15": {
+              "iframe": "",
+              "episode": 15,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "14": {
+              "iframe": "",
+              "episode": 14,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "13": {
+              "iframe": "",
+              "episode": 13,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "12": {
+              "iframe": "",
+              "episode": 12,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "11": {
+              "iframe": "",
+              "episode": 11,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "10": {
+              "iframe": "",
+              "episode": 10,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "9": {
+              "iframe": "",
+              "episode": 9,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "8": {
+              "iframe": "",
+              "episode": 8,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "7": {
+              "iframe": "",
+              "episode": 7,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "6": {
+              "iframe": "",
+              "episode": 6,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "5": {
+              "iframe": "",
+              "episode": 5,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "WEBRip",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "WEBRip, WEB-DLRip",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "WEBRip",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Моя новая жизнь",
+      "original_name": null,
+      "alternative_name": null,
+      "year": 2012,
+      "id_kp": 660791,
+      "alternative_id_kp": null,
+      "id_imdb": null,
+      "id_tmdb": null,
+      "id_world_art": null,
+      "token_movie": "90db38ee40b8960acfe27dc83ff692",
+      "last_season": 1,
+      "last_episode": 4,
+      "date": "2021-02-19 21:04:03",
+      "country": "Украина",
+      "category": "Сериал",
+      "genre": "мелодрама",
+      "actors": "Лариса Шахворостова, Андрей Биланов, Дмитрий Миллер, Регина Мянник, Любава Грешнова, Игорь Швыдченко, Мария Валешная, Владимир Горянский, Валерия Ходос, Евгений Капорин, Римма Зюбина, Оксана Байрак, Елена Турбал, Георгий Москалюк",
+      "directors": "Оксана Байрак",
+      "producers": "Виктор Мирский",
+      "premiere_ru": null,
+      "premiere": null,
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 6.1,
+      "rating_imdb": null,
+      "time": "00:44",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/660791.jpg",
+      "description": "Мир 40-летней Славы рушится буквально в одно мгновение: муж уходит к молодой любовнице, дочь обвиняет ее в том, что Слава разрушила ее жизнь, а лучшая подруга сама признается в предательстве.\n\r Последние 15 лет Слава не занималась ничем, кроме создания уюта в доме и жизни своих близких, свято уверовав, что они это оценят, но оказывается, что самые близкие люди не видят в Славе ничего, достойного уважения. Слава приходит в отчаянье, но внезапно в ее жизни появляется мужчина, который сможет помочь Славе начать абсолютно новую свою жизнь, подарит искреннюю любовь и станет самым родным человеком на земле.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 2,
+      "seasons_count": 1,
+      "seasons": {
+        "1": {
+          "iframe": "",
+          "season": 1,
+          "episodes": {
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "HDTV",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "HDTV",
+                  "iframe": ""
+                }
+              }
+            },
+            "2": {
+              "iframe": "",
+              "episode": 2,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "HDTV",
+                  "iframe": ""
+                }
+              }
+            },
+            "1": {
+              "iframe": "",
+              "episode": 1,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "HDTV",
+                  "iframe": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "quality": "HDTV",
+      "translation": "Не требуется",
+      "translation_iframe": {
+        "82": {
+          "name": "Не требуется",
+          "quality": "HDTV",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Там, где сердце",
+      "original_name": "Where the Heart Is",
+      "alternative_name": null,
+      "year": 2000,
+      "id_kp": 881,
+      "alternative_id_kp": null,
+      "id_imdb": "tt0198021",
+      "id_tmdb": 10564,
+      "id_world_art": null,
+      "token_movie": "421d6c62c62c86b139a91a768b42cb",
       "last_season": null,
       "last_episode": null,
-      "date": "2021-02-18 11:02:05",
+      "date": "2021-02-19 20:39:56",
       "country": "США",
       "category": "Фильм",
       "genre": "драма, комедия, мелодрама",
-      "actors": "Мэгги Джилленхол, Джеймс Спэйдер, Джереми Дэвис, Лесли Энн Уоррен, Стивен МакХэтти, Патрик Бошо, Джессика Так, Оз Перкинс, Эми Локейн, Мэри Джой, Майкл Мэнтелл, Лили Найт, Сабрина Грдевич, Лэйси Кол, Джулин Рени, Лорен Кон, Эзра Баззингтон, Кайл Колрайдер-Краг, Стефен Фирберг, Дэвид Виатер",
-      "directors": "Стивен Шейнберг",
-      "producers": "Эндрю Фирберг, Эми Хобби, Стивен Шейнберг, Джэми Бердсли, Джоэль Познер, П.Дж. Познер, Майкл Робэн",
-      "premiere_ru": "2003-01-13",
-      "premiere": "2002-01-11",
+      "actors": "Натали Портман, Эшли Джадд, Стокард Ченнинг, Джеймс Фрейн, Джоан Кьюсак, Дилан Бруно, Кит Дэвид, Салли Филд, Сью МакКормик, Рэй Прюитт, Лаура Хаус, Кери Грин, Мэри Эшли Грин, Кинна МакИнро, Лаура Олдридж, Алисия Годвин, Дэннис Леттс, Ричард Джонс, Кэтрин Эскивель, Марк Мэтис",
+      "directors": "Мэтт Уильямс",
+      "producers": "Сьюзан Картсонис, Дэвид МакФэджин, Патриция Уитчер, Мэтт Уильямс, Кармен Финестра, Джеррит В. Фолсом, Рик Лид, Дайан Минтер Льюис, Роз Вайсберг",
+      "premiere_ru": "2000-12-28",
+      "premiere": "2000-04-28",
+      "age_restrictions": 16,
+      "rating_mpaa": "pg13",
+      "rating_kp": 7.6,
+      "rating_imdb": 6.8,
+      "time": "02:00",
+      "tagline": "Голос сердца сильнее разума",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/881.jpg",
+      "description": "Главная героиня, Новали Нэйшн – типичная Золушка. Ей семнадцать лет, у нее восьмимесячная беременность и жизненная мудрость: при любых обстоятельствах число «пять» приносит несчастье. Когда бойфренд-грубиян сажает Новали в полуразвалившуюся машину и везет в солнечную Калифорнию, он бросает ее в первом же придорожном супермаркете Wal-Mart именно в тот момент, когда касса отбивает сдачу: 5 долларов 55 центов.\n\rГероине придется пожить между магазинных полок, осторожно устраивая себе на ночь подобие квартиры с постелью, будильником, магнитофоном – чем не реклама в духе «У нас есть все, что вам нужно?»",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DLRip",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "WEB-DLRip",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Уик-энд в Париже",
+      "original_name": "Le Week-End",
+      "alternative_name": null,
+      "year": 2013,
+      "id_kp": 706996,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2392326",
+      "id_tmdb": 209350,
+      "id_world_art": null,
+      "token_movie": "e4e6d48d97b491361ded96e536cb76",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:35:47",
+      "country": "Великобритания, Франция",
+      "category": "Фильм",
+      "genre": "комедия, мелодрама",
+      "actors": "Джим Бродбент, Линдси Дункан, Джефф Голдблюм, Игорь Готсман, Olivier Audibert, Софи-Шарлотт Юссон, Etienne Dalibert, Морисетт Лоренс, Gabriel Mailhebiau, Violaine Baccon, Damien Favreau, Дебора Амселлем, Стефан Де Фрая, Брайс Божье, Шарлотта Лео, Ксавьер Де Гийбон, Мари-Франс Альварез, Ли Михельсен, Дени Себбах, Себастьен Сиро",
+      "directors": "Роджер Мишелл",
+      "producers": "Кевин Лоудер, Сью Брюс-Смит, Луиса Дент, Бертран Фаврэ, Филип Кнэтчбулл, Роса Ромерои",
+      "premiere_ru": "2013-11-07",
+      "premiere": "2013-09-07",
       "age_restrictions": 16,
       "rating_mpaa": "r",
-      "rating_kp": 7,
-      "rating_imdb": 7,
-      "time": "01:47",
-      "tagline": "Assume the position.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/820.jpg",
-      "description": "Ли Холловэй возвращается в родной город. Она страдает небольшими отклонениями в поведении, однако это не мешает ей устроиться на работу секретарём к местному юристу мистеру Грэю. Поначалу работа кажется Ли вполне обычной, пока мистер Грэй не замечает у неё проблем с грамматикой и не решает исправить их своими особыми методами.",
+      "rating_kp": 6.2,
+      "rating_imdb": 6.4,
+      "time": "01:33",
+      "tagline": "Nick &amp; Meg are returning to Paris for a second honeymoon... and a last chance.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/706996.jpg",
+      "description": "Супружеская пара спустя многие годы после медового месяца возвращается в Париж в попытке освежить брак. В столице Франции они встретят старого приятеля, которому удается вдохнуть в охладевшие отношения новую жизнь.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "BDRip",
+      "translation": "Профессиональный многоголосый",
+      "translation_iframe": {
+        "87": {
+          "name": "Профессиональный многоголосый",
+          "quality": "BDRip",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Красная дорожка",
+      "original_name": "Red Carpet",
+      "alternative_name": null,
+      "year": 2021,
+      "id_kp": 1187310,
+      "alternative_id_kp": null,
+      "id_imdb": "tt8620078",
+      "id_tmdb": 798065,
+      "id_world_art": null,
+      "token_movie": "00812a483a653e9d55c02a9e922606",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:31:54",
+      "country": "Великобритания",
+      "category": "Фильм",
+      "genre": "криминал, музыка, триллер",
+      "actors": "Bobby Inman, Jovana Santiuste, Jordan VanDyke, Jovan Smith, Alfonzo Clark, Horacio Guerrero, Roshema Purfoy, Hair Craigs, Randy De Chavez, Kayleigh Kay MacKenzie, Angel S. Brown, Domineka Stanley, Justin R. Jones, Nicholas Lee, Erin Montgomery",
+      "directors": "Scott Altman",
+      "producers": "Hair Craigs, Donnie Hughes",
+      "premiere_ru": null,
+      "premiere": "2021-02-17",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 4.2,
+      "time": "01:19",
+      "tagline": null,
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Никоим образом",
+      "original_name": "By No Means",
+      "alternative_name": null,
+      "year": 2019,
+      "id_kp": 1309568,
+      "alternative_id_kp": null,
+      "id_imdb": "tt10686668",
+      "id_tmdb": 803805,
+      "id_world_art": null,
+      "token_movie": "be4c750670904b2494e27c3c4fb5e6",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:30:07",
+      "country": "США",
+      "category": "Фильм",
+      "genre": null,
+      "actors": "Walid Ama, Janvier Berber, Joanna Cretella, Carlos Flores Jr., Duncan Heath, Julia Korolko, Nathaniel Mordetzky, Aleksandra Ogneva, Gareth Owen, Gareth R.T. Owen, Taylor Ruhe, Jake Vincent, Maximilian Wix",
+      "directors": "Aleksandr Korolko",
+      "producers": "Zann Gill",
+      "premiere_ru": null,
+      "premiere": "2019-10-25",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5.2,
+      "time": "01:13",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1309568.jpg",
+      "description": "Женщина, уставшая от вечно занятого мужа и бесконечных семейных забот, ищет способ развлечься на стороне.",
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Тупик демона",
+      "original_name": "Dead End Demon",
+      "alternative_name": null,
+      "year": 2017,
+      "id_kp": 897612,
+      "alternative_id_kp": null,
+      "id_imdb": "tt4174516",
+      "id_tmdb": 505332,
+      "id_world_art": null,
+      "token_movie": "c2820b8a0cbea7583a7a97548a0fb4",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:29:14",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "ужасы",
+      "actors": "Вермиттиа Браун, Синтия Страхан, Маркус Д. Спенсер, Бьянка фон Крейг, Jordan F. Ghanma, Shalema Meszaro, Alexa Ponciano, Майк Динсмор, Джулия Хеллер, Джереми Корнер, Anquenitta Williams, Ларри Китагава, Sabrina Hodge, Нина Мартина, Стефани Хэнкок, Alexandra Heard, Ниру Сегал, Fabian Hernandez, Jolie Mason, Elizabeth Young",
+      "directors": "Jordan F. Ghanma",
+      "producers": "Mariam Abrahams, Jordan F. Ghanma, Маркус Д. Спенсер",
+      "premiere_ru": null,
+      "premiere": "2017-12-05",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 3.1,
+      "time": "01:30",
+      "tagline": "Just when they thought things were back to normal.",
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Девушка, подающая надежды",
+      "original_name": "Promising Young Woman",
+      "alternative_name": null,
+      "year": 2020,
+      "id_kp": 1236567,
+      "alternative_id_kp": null,
+      "id_imdb": "tt9620292",
+      "id_tmdb": 582014,
+      "id_world_art": null,
+      "token_movie": "174a0e36084c9dfa29c8651d032a81",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:23:34",
+      "country": "Великобритания, США",
+      "category": "Фильм",
+      "genre": "драма, криминал, триллер",
+      "actors": "Кэри Маллиган, Бо Бёрнэм, Лаверн Кокс, Клэнси Браун, Дженнифер Кулидж, Элисон Бри, Кристофер Минц-Плассе, Молли Шеннон, Анджела Чжоу, Сэм Ричардсон, Конни Бриттон, Стив Монро, Кэйси Адамс, Франциска Эстевез, Тимоти Э. Гудвин, Макс Гринфилд, Раснит Каур, Брайан Лиллис, Винс Лозаньо, Майк Хортон II",
+      "directors": "Эмиральд Феннел",
+      "producers": "Том Акерли, Бен Браунинг, Эмиральд Феннел, Джоуси МакНамара, Марго Робби, Глен Баснер, Элисон Коэн, Эшли Фокс, Фиона Уолш",
+      "premiere_ru": "2021-01-21",
+      "premiere": "2020-01-25",
+      "age_restrictions": 18,
+      "rating_mpaa": "r",
+      "rating_kp": 6.8,
+      "rating_imdb": 7.5,
+      "time": "01:53",
+      "tagline": "Нет ничего соблазнительнее, чем месть",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1236567.jpg",
+      "description": "Когда-то Кассандра училась в университете и подавала большие надежды, но теперь живёт с родителями и работает в кофейне. Девушка скрывает от близких, что по вечерам посещает бары и другие увеселительные заведения, где, притворяясь сильно пьяной, ведёт охоту на падких до беззащитных женщин мужчин. Вымещая злость на противоположном поле, таким образом Кассандра мстит за события студенческих лет.",
+      "iframe": "",
+      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=174a0e36084c9dfa29c8651d032a81&token=",
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Дублированный",
+      "translation_iframe": {
+        "66": {
+          "name": "Дублированный",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Любовь на локдауне",
+      "original_name": "Lock Down Love",
+      "alternative_name": null,
+      "year": 2021,
+      "id_kp": 4368807,
+      "alternative_id_kp": null,
+      "id_imdb": "tt13937648",
+      "id_tmdb": 792102,
+      "id_world_art": null,
+      "token_movie": "e885ac6ad5ce240eb6c06a9417dc4f",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:22:29",
+      "country": "США",
+      "category": "Фильм",
+      "genre": "драма",
+      "actors": "Aziza Al-Tawil, Yerubi Ali, Anika Ball, Leonid Bortnik, Anyke Brown, Beth Brown, Nahesha Chin, Maryam Chishti, Nastassja Chohnville, Isabella Renee Clark, Sochima Daniels, John Dominguez, Hannah Duncan, Ajah Enene, Ashlee Faush, Janine Hartmann, Pamela D. Hawkins, Kay Hickman, Rochelle Hovde, Hanna Rose Hunt",
+      "directors": "Emeka Mbadiwe",
+      "producers": "Arsen Bortnik, Kenny Gray, Emeka Mbadiwe, Tyriq Mustaqiym, Victor O'Frank, Olivia Tawadrous",
+      "premiere_ru": null,
+      "premiere": "2021-01-29",
+      "age_restrictions": null,
+      "rating_mpaa": null,
+      "rating_kp": null,
+      "rating_imdb": 5.4,
+      "time": "01:09",
+      "tagline": "Love Yourself No Matter What",
+      "poster": null,
+      "description": null,
+      "iframe": "",
+      "iframe_trailer": null,
+      "category_id": 1,
+      "quality": "WEB-DL",
+      "translation": "Многоголосый закадровый",
+      "translation_iframe": {
+        "72": {
+          "name": "Многоголосый закадровый",
+          "quality": "WEB-DL",
+          "iframe": "",
+          "adv": false
+        }
+      }
+    },
+    {
+      "name": "Хочешь или нет?",
+      "original_name": "Tu veux... ou tu veux pas?",
+      "alternative_name": null,
+      "year": 2014,
+      "id_kp": 771122,
+      "alternative_id_kp": null,
+      "id_imdb": "tt2978426",
+      "id_tmdb": 289153,
+      "id_world_art": null,
+      "token_movie": "97881363565e783b74710eaa5a58a2",
+      "last_season": null,
+      "last_episode": null,
+      "date": "2021-02-19 20:19:39",
+      "country": "Бельгия, Франция",
+      "category": "Фильм",
+      "genre": "комедия, мелодрама",
+      "actors": "Софи Марсо, Патрик Брюэль, Андре Вильм, Сильви Вартан, Франсуа Морель, Филипп Леллуш, Жан-Пьер Марьель, Патрик Брауде, Клод Перрон, Паскаль Демолон, Мари Ривьер, Филипп Хэрел, Скали Дельпейра, Камиль Панонакль, Фанни Сидни, Томас Саголс, Лоран Эйнеманн, Фабьен Галула, Бенуа Морет, Оливье Тилль",
+      "directors": "Тони Маршалл",
+      "producers": "Тони Маршалл, Себастьен Деллуа, Jennifer Demaret, Жюльен Дери, Франк Эльбасе, Диана Элбаум, Давид Гоки, Николас Лесаж, Этьен Малле",
+      "premiere_ru": "2014-12-04",
+      "premiere": "2014-08-22",
+      "age_restrictions": 16,
+      "rating_mpaa": null,
+      "rating_kp": 5.9,
+      "rating_imdb": 5.4,
+      "time": "01:28",
+      "tagline": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/771122.jpg",
+      "description": "Ламбер, раскаявшийся эротоман, пытается искупить свою вину, став семейным консультантом. Вынужденный в течение нескольких месяцев воздерживаться от близкого общения с дамами, он постоянно раздражается по пустякам. Ситуация усложняется, когда к нему на работу устраивается привлекательная и сексапильная Жюдит.",
       "iframe": "",
       "iframe_trailer": null,
       "category_id": 1,
@@ -177,183 +1781,73 @@
       }
     },
     {
-      "name": "Короткая переправа",
-      "original_name": "Brève traversée",
-      "alternative_name": "Узкий пролив",
-      "year": 2001,
-      "id_kp": 55066,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0299594",
-      "id_tmdb": 39770,
-      "id_world_art": null,
-      "token_movie": "e4b29fff0e9133d4f13c3c5f58644d",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 11:00:34",
-      "country": "Франция",
-      "category": "Фильм",
-      "genre": "драма, комедия, мелодрама",
-      "actors": "Сара Прэтт, Жиль Гийен, Марк Филипи, Летисия Лопез, Марк Яблонски, Кристель Дакоста, Николас Хоутри, Франк Лемейтр, Филипп Кесс, Жан-Клод Кавелье, Александр Ле Балидек",
-      "directors": "Катрин Брейя",
-      "producers": "Жан-Пьер Герен, Пьер Эйд, Кристоф Валетт",
-      "premiere_ru": "2002-06-25",
-      "premiere": "2001-09-05",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 6.8,
-      "rating_imdb": 6.8,
-      "time": "01:24",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/55066.jpg",
-      "description": "30-летняя Элис возвращается на родину в Англию на пароме, курсирующем между Сен-Мало и Портсмут. Она встречается на корабле с французским юношей и не может удержаться, чтобы не подсмеяться над его неопытностью и неловкостью. Тома 16 лет, и он не остается равнодушным к очарованию англичанки. Вечером на корабельной дискотеке подвыпившая Элис игриво откровенничает с подростком, рассказывая о своем одиночестве и своих страданиях. Они становятся любовниками. У Тома это первая женщина и, когда утром Элис хочет ускользнуть от него, он пытается ее удержать.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Любительский одноголосый",
-      "translation_iframe": {
-        "103": {
-          "name": "Любительский одноголосый",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Холодный душ",
-      "original_name": "Douches froides",
-      "alternative_name": "Cold Showers",
-      "year": 2005,
-      "id_kp": 110974,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0422133",
-      "id_tmdb": 27095,
-      "id_world_art": null,
-      "token_movie": "cd19f35e1b2607d6da6542f0a40d8e",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 10:58:54",
-      "country": "Франция",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Жоан Либеро, Саломе Стевенен, Флоранс Томассен, Жан-Филипп Экоффей, Клер Небу, Орельен Рекуан, Пьер Перрье, Дэнис Фалгу, Магали Вок, Камилла Жапи, Доминик Кабрера, Стив Чан, Оливье Дот-Дови, Иоанн Монжаль, Бенуа Бурсе, Сара Прэтт, Жан-Шарль Думей, Зои Бо, Жюли Буланже, Александр Бахтиари",
-      "directors": "Антони Кордье",
-      "producers": "Паскаль Кочето, Себастьен Лемерсье",
-      "premiere_ru": null,
-      "premiere": "2005-05-14",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 5.9,
-      "rating_imdb": 6.1,
-      "time": "01:42",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/110974.jpg",
-      "description": "Семнадцатилетний Майкл, капитан школьной команды по борьбе дзю-до готовится к ответственным соревнованиям. Его семья испытывает постоянные трудности, связанные с хронической нехваткой денег, а в отношения с  подругой Ванессой неожиданно вторгается недавно переехавший в город Клемент, состоятельный отец которого стал спонсором команды дзюдоистов.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Одноголосый закадровый",
-      "translation_iframe": {
-        "75": {
-          "name": "Одноголосый закадровый",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Учебник любви: Истории",
-      "original_name": "Manuale d'amore 2 (Capitoli successivi)",
+      "name": "Зима и весна сорок пятого",
+      "original_name": null,
       "alternative_name": null,
-      "year": 2007,
-      "id_kp": 261187,
+      "year": 1971,
+      "id_kp": 1046967,
       "alternative_id_kp": null,
-      "id_imdb": "tt0847745",
-      "id_tmdb": 20069,
+      "id_imdb": null,
+      "id_tmdb": null,
       "id_world_art": null,
-      "token_movie": "a9dee4fe82cfb5f4a5e99adbd8c3cf",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 10:57:43",
-      "country": "Италия",
-      "category": "Фильм",
-      "genre": "комедия, мелодрама",
-      "actors": "Карло Вердоне, Моника Беллуччи, Риккардо Скамарчо, Фабио Воло, Серджо Рубини, Антонио Альбанезе, Клаудио Бизио, Барбора Бобулова, Эльза Патаки, Дарио Бандьера, Козимо Чиньери, Лучия Вазини, Джи Лионнелло, Евгения Костантини, Валентина Карнелутти, Массимо Де Лоренцо, Tony Malco, Laura Marcellini, Ilenia Baccari, Марко Маццола",
-      "directors": "Джованни Веронези",
-      "producers": "Аурелио Де Лаурентис, Маурицио Амати, Джузеппе Чоккарелли, Луиджи Де Лаурентиис мл.",
-      "premiere_ru": null,
-      "premiere": "2007-01-19",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": 6.5,
-      "rating_imdb": 5.6,
-      "time": "02:00",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/261187.jpg",
-      "description": "Фильм состоит из четырех новелл, объединенных темой любовных отношений, в различных проявлениях. В первой новелле Никола, парализованный после автокатастрофы, влюбляется в своего физиотерапевта Лючию. Во второй Франко и Мануела, молодая пара, которая не может иметь ребенка, летят в Барселону для оплодотворения. В третьей Филиппо и Фоско, два гея, решают пожениться. В четвертой у женатого Эрнесто, мэтра в важном ресторане есть связь с Чечилией, новой, молодой, испанкой - помощницей на кухне.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Любительский двухголосый",
-      "translation_iframe": {
-        "88": {
-          "name": "Любительский двухголосый",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Каштаны пустыни",
-      "original_name": "Les châtaigniers du désert",
-      "alternative_name": null,
-      "year": 2010,
-      "id_kp": 479276,
-      "alternative_id_kp": null,
-      "id_imdb": "tt1527160",
-      "id_tmdb": 72422,
-      "id_world_art": null,
-      "token_movie": "0dfb5963dd2ff053c82b0010c14223",
+      "token_movie": "17168b52d5f69ba291540699cbbdc5",
       "last_season": 1,
-      "last_episode": 2,
-      "date": "2021-02-18 10:54:18",
-      "country": "Франция",
-      "category": "Фильм",
-      "genre": null,
-      "actors": "Элоди Наварр, Луи Вель, Франсуа Марторе, Тома Жуанне, Изабель Садоян, Матиа Млекюз, Жан-Клод Друо, Джеймс Жерар, Александра Стюарт, Ванесса Гид, Самир Буатар, Аззедин Буабба, Бенжамен Дуба-Пари, Жюли Форнье, Сильви Женти, Филипп Лоденбаш, Джульетт Лемонье, Жиль Мерсье, Алан Мотте, Жан-Филипп Пюмартин",
-      "directors": "Каролин Юппер",
-      "producers": "Софи Равард, Николас Траубе",
+      "last_episode": 4,
+      "date": "2021-02-19 19:54:18",
+      "country": "СССР",
+      "category": "Сериал",
+      "genre": "военный, документальный",
+      "actors": "Леонид Хмара",
+      "directors": "Джемма Фирсова",
+      "producers": "",
       "premiere_ru": null,
-      "premiere": "2010-12-13",
-      "age_restrictions": 18,
+      "premiere": null,
+      "age_restrictions": 16,
       "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 6.4,
-      "time": "1:30",
+      "rating_kp": 6.1,
+      "rating_imdb": null,
+      "time": "4:10",
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/479276.jpg",
-      "description": "Накануне своей свадьбы молодая успешная женщина решает съездить в свой родной городок в Севеннах, чтобы узнать больше о своих корнях. Это путешествие изменит всю ее жизнь.",
+      "poster": null,
+      "description": null,
       "iframe": "",
       "iframe_trailer": null,
-      "category_id": 1,
+      "category_id": 2,
       "seasons_count": 1,
       "seasons": {
         "1": {
           "iframe": "",
           "season": 1,
           "episodes": {
+            "4": {
+              "iframe": "",
+              "episode": 4,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "SATRip",
+                  "iframe": ""
+                }
+              }
+            },
+            "3": {
+              "iframe": "",
+              "episode": 3,
+              "translation": {
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "SATRip",
+                  "iframe": ""
+                }
+              }
+            },
             "2": {
               "iframe": "",
               "episode": 2,
               "translation": {
-                "87": {
-                  "translation": "Профессиональный многоголосый",
-                  "quality": "HDRip",
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "SATRip",
                   "iframe": ""
                 }
               }
@@ -362,9 +1856,9 @@
               "iframe": "",
               "episode": 1,
               "translation": {
-                "87": {
-                  "translation": "Профессиональный многоголосый",
-                  "quality": "HDRip",
+                "82": {
+                  "translation": "Не требуется",
+                  "quality": "SATRip",
                   "iframe": ""
                 }
               }
@@ -372,449 +1866,63 @@
           }
         }
       },
-      "quality": "HDRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "HDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Семь воронов",
-      "original_name": "Sedmero krkavců",
-      "alternative_name": null,
-      "year": 1993,
-      "id_kp": 321492,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0108075",
-      "id_tmdb": 231623,
-      "id_world_art": null,
-      "token_movie": "49b0a748a5699e0a5db13cf619f428",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 10:52:44",
-      "country": "Чехия",
-      "category": "Фильм",
-      "genre": "детский, фэнтези",
-      "actors": "Михал Длоуги, Helena Billová, Радослав Брзобогаты, Ивана Хилкова, Marcela Dürrová, Petr Gazdík, Jana Gazdíková, Яна Главачова, Марек Голы, Иван Хора, Зора Яндова, Лукас Кантор, Monika Kobrová, Жан Новак, Игорь Ондржичек, Mária Podhradská, Daniel Rous, Мартин Ружек, Борис Реснер, Хелена Трибова",
-      "directors": "Людвик Ража",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": null,
-      "age_restrictions": 6,
-      "rating_mpaa": null,
-      "rating_kp": 6.1,
-      "rating_imdb": 5.7,
-      "time": "01:20",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/321492.jpg",
-      "description": "История о том, как мать в момент гнева проклинает своих непослушных сыновей и они превращаются в семерых воронов. Их сестра, став взрослой, решает спасти своих братьев, но прежде чем ей это удается, она преодолеет много трудностей.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "HDRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "HDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Сердце дракона: Начало",
-      "original_name": "Dragonheart: A New Beginning",
-      "alternative_name": null,
-      "year": 2000,
-      "id_kp": 94216,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0214641",
-      "id_tmdb": 10473,
-      "id_world_art": null,
-      "token_movie": "4a5781935bda4452f5e9531322fdb1",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 10:51:36",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "боевик, комедия, фэнтези",
-      "actors": "Кристофер Мастерсон, Гарри Ван Горкум, Рона Фигуроа, Мэтт Хикки, Генри О, Том Бёрк, Робби Бенсон, Кен Шотер, Джон Вуднатт, Любомир Мисак, Карин Айду, Петер Хрич, Imrich Strunar, Gustáv Kyselica, Владимир Окватвеч, Энтони О’Доннелл, Владо Дурдик, Stano Satko, Роман Янкович, Peter Olgyay",
-      "directors": "Даг Лефлер",
-      "producers": "Раффаэлла Де Лаурентис, Хестер Харгетт",
-      "premiere_ru": null,
-      "premiere": "2000-01-01",
-      "age_restrictions": null,
-      "rating_mpaa": "pg",
-      "rating_kp": 5.7,
-      "rating_imdb": 4.6,
-      "time": "01:24",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/94216.jpg",
-      "description": "Юный Джеффри мечтает стать благородным рыцарем в сияющих доспехах. Но он всего лишь бедный сирота, которому вряд ли светит когда - нибудь покинуть старые стены монастыря, где он служит конюхом. Его мечтам никогда не суждено было бы осуществиться, если бы не удивительная встреча: в подвале монастыря Джеффри обнаруживает Дрейка - последнего оставшегося в живых дракона на Земле.\n\rДрейк вылупился из яйца, которое было найдено славным рыцарем Боуэном, героем первого фильма. Юноша и дракон становятся друзьями. Покинув подвал, Дрейк совершает свой первый полет. Но приходит час, когда над страной сгущаются тучи. Королевство в опасности! И только Джеффри и Дрейк могут его спасти...",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Соблазнение Джо Тайнана",
-      "original_name": "The Seduction of Joe Tynan",
-      "alternative_name": null,
-      "year": 1979,
-      "id_kp": 1903,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0079875",
-      "id_tmdb": 47906,
-      "id_world_art": null,
-      "token_movie": "3aa24b70aebedece9bc90dcbcb3e51",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 10:50:08",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Алан Алда, Мэрил Стрип, Барбара Харрис, Рип Торн, Мелвин Дуглас, Чарльз Кимбро, Кэрри Най, Майкл Хиггинс, Бланш Бейкер, Морин Андерман, Крис Арнольд, Джон Бадила, Роберт Кристиан, Морис Коуплэнд, Лу Элрод, Кларенс Фелдер, Гас Флеминг, Мерв Гриффин, Мэриэн Хейли, Дэн Хедайя",
-      "directors": "Джерри Шацберг",
-      "producers": "Мартин Брегман, Луис А. Строллер",
-      "premiere_ru": null,
-      "premiere": "1979-08-17",
-      "age_restrictions": 16,
-      "rating_mpaa": "r",
-      "rating_kp": 6.2,
-      "rating_imdb": 6.1,
-      "time": "01:48",
-      "tagline": "There are many ways to be seduced. Fame. Power. Love. Joe Tynan knows them all.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1903.jpg",
-      "description": "История о соблазне, подстерегающем даже самого добропорядочного семьянина и честного политика, перед которым открывается огромный мир искушений: власть, слава, деньги и, конечно же, любовь очаровательной коллеги. Джо Тайнану осталось лишь сделать свой выбор… Но будет ли этот выбор верным?",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "DVDRip",
-      "translation": "Профессиональный многоголосый",
-      "translation_iframe": {
-        "87": {
-          "name": "Профессиональный многоголосый",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Соломенная шляпка",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 1974,
-      "id_kp": 77336,
-      "alternative_id_kp": null,
-      "id_imdb": "tt0174225",
-      "id_tmdb": 63452,
-      "id_world_art": null,
-      "token_movie": "126c9be406812d50aeffc9539cf578",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 10:48:54",
-      "country": "СССР",
-      "category": "Фильм",
-      "genre": "комедия, мюзикл",
-      "actors": "Андрей Миронов, Владислав Стржельчик, Зиновий Гердт, Ефим Копелян, Людмила Гурченко, Екатерина Васильева, Алиса Фрейндлих, Михаил Козаков, Игорь Кваша, Александр Бениаминов, Владимир Татосов, Ирина Могуто, Марина Старых, Сергей Мигицко, Елена Ефимова, Евгения Лосакевич, Вера Сонина, В. Томина, Семён Берлин, Гия Перадзе",
-      "directors": "Леонид Квинихидзе",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": "1975-01-04",
-      "age_restrictions": 6,
-      "rating_mpaa": null,
-      "rating_kp": 7.7,
-      "rating_imdb": 7.3,
-      "time": "02:07",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77336.jpg",
-      "description": "Герой фильма вынужден жениться, так как у него полно долгов, а 24 франка в день составляют 8000 с лишним франков в год одной только ренты, и к тому же на браке настаивает отец невесты, но в дело вмешивается лошадь, предпочитающая итальянскую соломку.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "HDTV",
+      "quality": "SATRip",
       "translation": "Не требуется",
       "translation_iframe": {
         "82": {
           "name": "Не требуется",
-          "quality": "HDTV",
+          "quality": "SATRip",
           "iframe": "",
           "adv": false
         }
       }
     },
     {
-      "name": "Не проиграю!",
-      "original_name": "Maken-ki!",
-      "alternative_name": null,
-      "year": 2011,
-      "id_kp": 683890,
+      "name": "Интернат",
+      "original_name": "El Internado: Las Cumbres",
+      "alternative_name": "Черная лагуна: Вершины",
+      "year": 2021,
+      "id_kp": 1348831,
       "alternative_id_kp": null,
-      "id_imdb": "tt3692198",
-      "id_tmdb": null,
-      "id_world_art": 796,
-      "token_movie": "a02e85fb58b13890078ee442a67e36",
-      "last_season": 2,
-      "last_episode": 10,
-      "date": "2021-02-18 10:18:51",
-      "country": "Япония",
-      "category": "Аниме сериал",
-      "genre": "аниме, комедия, мультфильм",
-      "actors": "",
-      "directors": "Коити Охата",
-      "producers": "",
+      "id_imdb": "tt11709206",
+      "id_tmdb": 97513,
+      "id_world_art": null,
+      "token_movie": "a13a070008f640cd90524481eae758",
+      "last_season": 1,
+      "last_episode": 8,
+      "date": "2021-02-19 15:00:46",
+      "country": "Испания",
+      "category": "Сериал",
+      "genre": "детектив, драма, триллер",
+      "actors": "Азия Ортега, Albert Salazar, Джоэль Боскед, Альберто Амарилья, Мина Эль Хаммани, Клаудия Риера, Паула дель Рио, Дэниэл Ариас, Daniela Rubio, Gonzalo Diez, Наталия Дисента, Пачи Сантамария, Лукас Веласко, Joseba Usabiaga, Рамиро Блас, Амайя Лисарральде, Кандидо Уранга, Айтор Бельтран, Иньяке Ирасторса, Francisca Aronsson",
+      "directors": "Denis Rovira van Boekholt, Карлес Торренс, Хесус Родриго",
+      "producers": "Ignacio Corrales, Laura Fernandez Espeso, Sonia Martinez, Лаура Бельосо, Ignacio Corrales, Лаура Фернандес Эспесо, Соня Мартинес",
       "premiere_ru": null,
-      "premiere": "2012-03-01",
+      "premiere": "2021-02-18",
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 6,
-      "rating_imdb": null,
-      "time": "00:25",
+      "rating_kp": null,
+      "rating_imdb": 6.6,
+      "time": null,
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/683890.jpg",
-      "description": "Такэру Ояма провел три года средней школы в мужском интернате и, конечно же, истосковался по прекрасному полу. Потому он без сомнений записался в академию «Солнечная» - тоже интернат, только женский, в котором лишь сейчас разрешили совместное обучение. Другим плюсом было то, что там училась на год старшая Харуко Амая, не только подруга детства, но и «сестра» по клубу карате, от которой Такэру ожидал совета и помощи в новом волнующем мире, где уже видел себя «первым парнем». Озабоченный понятными мыслями, главный герой упустил из вида одну маленькую деталь - «Солнечная» была основана как школа магии и боевых искусств!",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1348831.jpg",
+      "description": "Школа-интернат для проблемных детей находится в горах, рядом со старым монастырем — в месте труднодоступном и изолированном. А в окрестных лесах таится какая-то древняя и опасная тайна.",
       "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 4,
-      "seasons_count": 2,
+      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=a13a070008f640cd90524481eae758&token=",
+      "category_id": 2,
+      "seasons_count": 1,
       "seasons": {
-        "2": {
-          "iframe": "",
-          "season": 2,
-          "episodes": {
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "8": {
-              "iframe": "",
-              "episode": 8,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "7": {
-              "iframe": "",
-              "episode": 7,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "6": {
-              "iframe": "",
-              "episode": 6,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "5": {
-              "iframe": "",
-              "episode": 5,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "4": {
-              "iframe": "",
-              "episode": 4,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "3": {
-              "iframe": "",
-              "episode": 3,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                },
-                "10": {
-                  "translation": "Anilibria",
-                  "quality": "HDTVRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        },
         "1": {
           "iframe": "",
           "season": 1,
           "episodes": {
-            "12": {
-              "iframe": "",
-              "episode": 12,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "11": {
-              "iframe": "",
-              "episode": 11,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "10": {
-              "iframe": "",
-              "episode": 10,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "9": {
-              "iframe": "",
-              "episode": 9,
-              "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
-                  "iframe": ""
-                }
-              }
-            },
             "8": {
               "iframe": "",
               "episode": 8,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -823,9 +1931,9 @@
               "iframe": "",
               "episode": 7,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -834,9 +1942,9 @@
               "iframe": "",
               "episode": 6,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -845,9 +1953,9 @@
               "iframe": "",
               "episode": 5,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -856,9 +1964,9 @@
               "iframe": "",
               "episode": 4,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -867,9 +1975,9 @@
               "iframe": "",
               "episode": 3,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -878,9 +1986,9 @@
               "iframe": "",
               "episode": 2,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -889,9 +1997,9 @@
               "iframe": "",
               "episode": 1,
               "translation": {
-                "9": {
-                  "translation": "AniDUB",
-                  "quality": "BDRip",
+                "192": {
+                  "translation": "Ultradox",
+                  "quality": "WEBRip",
                   "iframe": ""
                 }
               }
@@ -899,53 +2007,47 @@
           }
         }
       },
-      "quality": "BDRip, HDTVRip",
-      "translation": "AniDUB, Anilibria",
+      "quality": "WEBRip",
+      "translation": "Ultradox",
       "translation_iframe": {
-        "9": {
-          "name": "AniDUB",
-          "quality": "BDRip",
+        "192": {
+          "name": "Ultradox",
+          "quality": "WEBRip",
           "iframe": "",
-          "adv": false
-        },
-        "10": {
-          "name": "Anilibria",
-          "quality": "HDTVRip",
-          "iframe": "",
-          "adv": false
+          "adv": true
         }
       }
     },
     {
-      "name": "Супер Сонико",
-      "original_name": "SoniAni: Super Sonico the Animation",
+      "name": "Моя хранительница Химари ",
+      "original_name": "Omamori Himari",
       "alternative_name": null,
-      "year": 2014,
-      "id_kp": 820533,
+      "year": 2010,
+      "id_kp": 780911,
       "alternative_id_kp": null,
-      "id_imdb": "tt3399734",
-      "id_tmdb": 77175,
-      "id_world_art": 1736,
-      "token_movie": "77ff52e3cb11e324677247ff8751c9",
+      "id_imdb": "tt3029762",
+      "id_tmdb": 37555,
+      "id_world_art": 7497,
+      "token_movie": "1668027945dd1c14d0fa024b48e6f6",
       "last_season": 1,
       "last_episode": 12,
-      "date": "2021-02-18 10:12:41",
+      "date": "2021-02-19 11:28:13",
       "country": "Япония",
       "category": "Аниме сериал",
-      "genre": "аниме, комедия, мультфильм",
-      "actors": "Джессика Нигри, Джульет Симмонс, Дэвид Уолд, Кэтлин Барр, Беттина Кенни, Kayle Campbell, Мэгги Флекно, Нед Гэйл, Джей Хикман, Lainee Hooks, Кайл Джонс, Марк Ласковски, Beth Lazarou, Энни Мэй, Джоэль МакКрэй, Ким МакКи, Эмили Невез, Андреа Родригес, Блейк Шепард, Джон Свэйзи",
-      "directors": "",
-      "producers": "Jun Arai, Ёсинао Дои, Кадзуёси Фукуба, Дзюн Фукуда, Teppei Harada, Ёхэй Хаяси, Ryôichi Ishikawa, Noritomo Isotani, Гаку Иваса, Рютаро Саки",
+      "genre": "аниме, мультфильм, фэнтези",
+      "actors": "Даисукэ Хиракава, Ами Косимидзу, Юки Мацуока, Иори Номидзу, Кэи Синдо, Огамэ Асука, Асука Огамэ",
+      "directors": "Синдзи Усиро",
+      "producers": "",
       "premiere_ru": null,
-      "premiere": "2014-01-06",
+      "premiere": "2010-01-06",
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 5.7,
-      "rating_imdb": 5.6,
+      "rating_kp": 6.4,
+      "rating_imdb": 6.4,
       "time": "00:25",
       "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/820533.jpg",
-      "description": "Супер Сонико – 18-летняя студентка, которая играет на гитаре в девчачьей рок-группе, а также работает моделью. Несмотря на свой плотный график, она умудряется находить время, чтобы помогать бабушке в ее ресторане. Однажды девушки, с которыми она играет в группе, Судзу и Фури, опаздывают на концерт и ей приходится выступать одной…",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/780911.jpg",
+      "description": "Юто Амакава происходит из клана борцов с демонами, которые, как известно, существуют и делают все, чтобы извести немногих людей, способных причинить им вред. Родители мальчика погибли и успели лишь оставить маленькому сыну талисман, призванный хранить его от потусторонних сил – но только до 16 лет. Так Юто и дожил до совершеннолетия под присмотром подруги детства Ринко Кудзаки, не ведая о своей судьбе и боясь только кошек, на которых у него аллергия. Но не успели злые силы обрадоваться, как на смену одному амулету пришел другой, живой – дух кошки-оборотня по имени Химари, с которой дед главного героя когда-то взял клятву защищать последнего потомка клана.",
       "iframe": "",
       "iframe_trailer": null,
       "category_id": 4,
@@ -1102,212 +2204,43 @@
       }
     },
     {
-      "name": "Карта прекрасных маленьких вещей",
-      "original_name": "The Map of Tiny Perfect Things",
+      "name": "Так она нашла меня",
+      "original_name": "Then She Found Me",
       "alternative_name": null,
-      "year": 2021,
-      "id_kp": 1346672,
+      "year": 2007,
+      "id_kp": 195565,
       "alternative_id_kp": null,
-      "id_imdb": "tt11080108",
-      "id_tmdb": 672647,
+      "id_imdb": "tt0455805",
+      "id_tmdb": 13196,
       "id_world_art": null,
-      "token_movie": "292012e066c9d07a7e5f1aac96357e",
+      "token_movie": "06ece625fb144178247bc867f9bda7",
       "last_season": null,
       "last_episode": null,
-      "date": "2021-02-18 08:53:16",
-      "country": "США",
+      "date": "2021-02-19 11:09:49",
+      "country": "Великобритания, США",
       "category": "Фильм",
-      "genre": "комедия, мелодрама, фэнтези",
-      "actors": "Кэтрин Ньютон, Джош Хэмилтон, Кайл Аллен, Аль Адригал, Клео Фрайзер, Анна Миками, Teance Blackburn, Ванесса Падла, Jermaine Harris, Emmett Ferguson, Лили Лампкин, Лиза ВанАмбург, Дуглас ДеЛисл, Тимоти Дж Монахэн, Дэниэл Скотт Лампкин мл., Lydia Houston, Дайер Скотт Лампкин, Chris Best",
-      "directors": "Йен Сэмюэлс",
-      "producers": "Эшли Фокс, Акива Голдсман, Аарон Райдер, Глен Баснер, Элисон Коэн, Грегори Лессанс, Д. Скотт Лампкин, Марина Стэбил",
-      "premiere_ru": null,
-      "premiere": "2021-02-11",
-      "age_restrictions": null,
-      "rating_mpaa": "pg13",
-      "rating_kp": 6.6,
-      "rating_imdb": 6.8,
-      "time": "01:38",
-      "tagline": "One day. Infinite possibilities.",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1346672.jpg",
-      "description": "Марк безмятежно живёт, бесконечно переживая один и тот же день. Всё меняется, когда он встречает Маргарет, которая также находится в петле. Они решают провести бесконечность вместе, стремясь найти все мелочи, которые сделают этот вечный день идеальным. Но в какой-то момент герои начинают задумываться над будущим.",
-      "iframe": "",
-      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=292012e066c9d07a7e5f1aac96357e&token=",
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый, Субтитры",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        },
-        "79": {
-          "name": "Субтитры",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Перемены",
-      "original_name": "Things Don't Stay Fixed",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1094455,
-      "alternative_id_kp": null,
-      "id_imdb": "tt7029534",
-      "id_tmdb": 776946,
-      "id_world_art": null,
-      "token_movie": "b7d93940f6985f7c6c670a6ad286af",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 08:50:30",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Уильям Грегори Ли, Тара Окс, Бренда Бинум, Мелисса Сент-Аманд, Desi Evans, Lorenzo Battle, Yolanda Sewell, Lucy Sheftall, Дэвид Силверман, Jonah C. Miller, Джеки Пруха, Luann Brown, Ta'Varis Wilson, Neal Brumbeloe, Anthony Butch, Trenton A. Thompson, Jase Shehane, Ishmael McKinstry",
-      "directors": "Bo Bartlett",
-      "producers": "Стэйси Каннингэм, Betsy Eby",
-      "premiere_ru": null,
-      "premiere": null,
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": null,
-      "time": null,
-      "tagline": null,
-      "poster": null,
-      "description": null,
+      "genre": "драма, комедия, мелодрама",
+      "actors": "Мэттью Бродерик, Колин Фёрт, Хелен Хант, Бетт Мидлер, Бен Шенкман, Линн Коэн, Джон Бенжамин Хикки, Салман Рушди, Дэйзи Тахэн, Томми Нельсон, Stephanie Yankwitt, Лилиас Уайт, Дэвид Каллегати, Рабби Кеннет Штерн, Роберт ЛюПон, Крис Чок, Alexa Scott-Flaherty, Марина Дарелл, Сэди Хестон, Стефани Берри",
+      "directors": "Хелен Хант",
+      "producers": "Хелен Хант, Памела Коффлер, Кэти Роумел, Конни Тавэл, Кристин Вачон, Джон Ф. Андерсон, Моника Х. Андерсон, Сара Арнотт, Ховард Бехар",
+      "premiere_ru": "2007-11-22",
+      "premiere": "2007-09-07",
+      "age_restrictions": 16,
+      "rating_mpaa": "r",
+      "rating_kp": 6,
+      "rating_imdb": 6,
+      "time": "01:40",
+      "tagline": "Life can change in a heartbeat.",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/195565.jpg",
+      "description": "У школьной учительницы из Филадельфии кризис среднего возраста. В одночасье вся её жизнь пошла наперекосяк: бросил муж, скончалась приёмная мать, внезапно объявилась настоящая мать, эксцентричная участница всевозможных ток-шоу и перевернула всё с ног на голову, в довершение всего она завертела роман с отцом одного из своих учеников…",
       "iframe": "",
       "iframe_trailer": null,
       "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
+      "quality": "HDTV",
+      "translation": "Дублированный",
       "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Герой моего времени",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2018,
-      "id_kp": 1199802,
-      "alternative_id_kp": null,
-      "id_imdb": "tt8355636",
-      "id_tmdb": 537049,
-      "id_world_art": null,
-      "token_movie": "325f591dee7329067e82fdb69488a6",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:30:16",
-      "country": "Украина",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "Евгений Бушмакин, Олег Шевцов, Василиса Фролова, Наталья Якимович, Елена Курта, Соня Забуга, Марина Шевченко, Алёна Курта",
-      "directors": "Антонина Ноябрева",
-      "producers": "Анна Паленчук, Николай Конопелько",
-      "premiere_ru": null,
-      "premiere": "2018-07-15",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6.4,
-      "rating_imdb": 6.6,
-      "time": "01:20",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1199802.jpg",
-      "description": "Молодой Жорик мечтает покорить столицу. Его манят дорогие магазины, модные галереи и «европейские ценности», но пока Жорик живет в мире пивных киосков, дешёвых аттракционов и грязных подъездов. Нашему герою кажется, что очень скоро он преодолеет невидимую границу между двумя измерениями большого города контрастов. Но как найти «социальный лифт», если даже лифт в доме никак не удается починить?",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Оригинальная",
-      "translation_iframe": {
-        "93": {
-          "name": "Оригинальная",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Анютино счастье",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 2013,
-      "id_kp": 805785,
-      "alternative_id_kp": null,
-      "id_imdb": "tt5031870",
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "09181d7a1cb09e715170be24879081",
-      "last_season": 1,
-      "last_episode": 2,
-      "date": "2021-02-18 05:29:20",
-      "country": "Россия",
-      "category": "Фильм",
-      "genre": "мелодрама",
-      "actors": "Николь Спиридонова, Дарья Егорова, Владимир Гориславец, Максим Сальников, Дмитрий Воронцов, Нина Курпякова, Илья Носков, Аполлинария Дашковская, Андрей Перунов, Светлана Камынина, Елена Посоюзных, Наталья Качалова, Вадим Андреев, Олег Харитонов, Эра Зиганшина, Эльмира Метревели, Сергей Неудачин, Татьяна Шатилова, Роман Полянский, Сергей Фатьянов",
-      "directors": "Борис Рабей",
-      "producers": "Ирина Смирнова, Александр Кушаев",
-      "premiere_ru": "2013-12-22",
-      "premiere": null,
-      "age_restrictions": 12,
-      "rating_mpaa": null,
-      "rating_kp": 6.4,
-      "rating_imdb": null,
-      "time": "00:45",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/805785.jpg",
-      "description": "Аня возвращается в родное село из детдома, куда попала после смерти матери. Она приезжает к старшему брату, которого долгие годы не видела. Но в собственном доме оказывается лишней: у брата своя семья, и Аню никто не ждал. Вскоре выясняется, что богатый фермер Юмашев - Анин отец. Когда-то он бросил ее мать и теперь, раскаявшись, решает наверстать упущенное отцовство. Неожиданно Юмашев умирает, успев завещать дочери ферму. Однако вместо райской жизни девушку ждет преследование бандитов, которые давно положили глаз на чужие земли...",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "DVDRip, HDTV",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
+        "66": {
+          "name": "Дублированный",
           "quality": "HDTV",
           "iframe": "",
           "adv": false
@@ -1315,620 +2248,87 @@
       }
     },
     {
-      "name": "Безумие Элис",
-      "original_name": "Alice Fades Away",
-      "alternative_name": null,
-      "year": 2021,
-      "id_kp": 1038769,
-      "alternative_id_kp": null,
-      "id_imdb": "tt6550978",
-      "id_tmdb": 552317,
-      "id_world_art": null,
-      "token_movie": "4774ed427b81f9fecc4157b5428f13",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:27:56",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "триллер",
-      "actors": "Эшли Шелтон, Уильям Сэдлер, Бланш Бейкер, Пэкстон Синглтон, Конор Уилльям Райт, Томми Бердмор, Джей Поттер, Джоэнна Пикеринг, Emily Eckes, Nick Yiakoumatos, Benjamin Russell, Jim Vaglica",
-      "directors": "Ryan Bliss",
-      "producers": "Энтони Амброзино, Ryan Bliss, Энди МакКарти, Джанин Мур",
-      "premiere_ru": null,
-      "premiere": "2021-02-16",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 3.7,
-      "time": "01:16",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1038769.jpg",
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": "https://abelite.thealloha.club/t/?token_movie=4774ed427b81f9fecc4157b5428f13&token=",
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Смертельная поездка",
-      "original_name": "Death Trip",
-      "alternative_name": null,
-      "year": 2021,
-      "id_kp": 4360028,
-      "alternative_id_kp": null,
-      "id_imdb": "tt13223274",
-      "id_tmdb": 566926,
-      "id_world_art": null,
-      "token_movie": "5e5fab8dadbfd5d853e18a715f35f7",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:27:15",
-      "country": "Канада",
-      "category": "Фильм",
-      "genre": "ужасы",
-      "actors": "Kelly Kay, Tatyana Olal, Garrett Johnson, Melina Trimarchi, Zoe Slobodzian, Bruce Watts, Brad MacDonald, David Kuyek, Joseph Simmons, Brett Howie, Tara Desmond, Amy Goldberg, Rufina Ip, James Watts, Tracy Butler, Marilis Cardinal, Zoe Christmas, Alexis Cuthbert, Matt Marotti, Jordan Minkoff",
-      "directors": "James Watts",
-      "producers": "Kelly Kay, Iain MacNeil, Zoe Slobodzian",
-      "premiere_ru": null,
-      "premiere": "2018-12-08",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 2.7,
-      "time": "01:41",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4360028.jpg",
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "DZIDZIO Контрабас",
+      "name": "Тариф на любовь",
       "original_name": null,
       "alternative_name": null,
-      "year": 2017,
-      "id_kp": 1045175,
+      "year": 2004,
+      "id_kp": 280193,
       "alternative_id_kp": null,
-      "id_imdb": "tt6761474",
-      "id_tmdb": 458123,
+      "id_imdb": null,
+      "id_tmdb": null,
       "id_world_art": null,
-      "token_movie": "8d8a8966816bf44d44f7fa11a96ed3",
+      "token_movie": "39bd688f6bf97efa71502a05caf982",
       "last_season": null,
       "last_episode": null,
-      "date": "2021-02-18 05:26:34",
-      "country": "Украина",
-      "category": "Фильм",
-      "genre": "комедия",
-      "actors": "Михайло Хома, Алена Лавренюк, Назарий Гук, Орест Галицкий, Сергей Павук, Римма Зюбина, Владимир Горянский, Игорь Кондратюк, Алексей Вертинский, Сергей Либа",
-      "directors": "Олег Борщевский",
-      "producers": "Павел Сушко, Сергей Лавренюк, Михайло Хома",
-      "premiere_ru": null,
-      "premiere": "2017-08-31",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 6,
-      "rating_imdb": 5.4,
-      "time": "01:29",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1045175.jpg",
-      "description": "Если троица идиотов решила заняться незаконным делом, жди беды. Они выросли на границе, поэтому найти лёгкие деньги для них не составляет труда. Однако когда на пути возникает красивая девушка, все планы идут прахом. По сравнению с приключениями парней американские горки покажутся лёгким покачиванием...",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DLRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "WEB-DLRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Однажды в Тумстоуне",
-      "original_name": "Once Upon a Time in Tombstone",
-      "alternative_name": null,
-      "year": 2021,
-      "id_kp": 1445450,
-      "alternative_id_kp": null,
-      "id_imdb": "tt13374182",
-      "id_tmdb": 797528,
-      "id_world_art": null,
-      "token_movie": "e5be49f7fddbc742d01ab0e5638f99",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:25:41",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "вестерн",
-      "actors": "William Adams, Jezibell Anat, Ronald Blanton, Wayne Blanton, Thomas Carani, Джерри Чессер, Paul Clayton, Joseph Cook, Daniel Dobson, Russell Dobson, Wade Fullmer, Charles Gabel, Terri Gibson, В. Клэй Ли, Wendy Miklos, Брэд Оуэнс, Eddie Rodgers, Bobby Snider, Jay Tomkins, Lizzi Tomkins",
-      "directors": "Кристофер Форбс",
-      "producers": "Кристофер Форбс, Стюарт Элсон, Николь Холлэнд",
-      "premiere_ru": null,
-      "premiere": "2020-04-20",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 1.8,
-      "time": "01:22",
-      "tagline": "Where justice were served from the barrel of a gun.",
-      "poster": null,
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "3/4",
-      "original_name": "3/4",
-      "alternative_name": null,
-      "year": 2017,
-      "id_kp": 1047842,
-      "alternative_id_kp": null,
-      "id_imdb": "tt7133384",
-      "id_tmdb": 467266,
-      "id_world_art": null,
-      "token_movie": "91e406e65f32fcbfcac8250cdb1767",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:24:59",
-      "country": "Болгария",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Mila Mihova, Nikolay Mashalov, Todor Veltchev, Simona Genkova, Kaloyan Georgiev, Alexander Kurtenkov, Bono Lungov, Petar Matev, Teodor Velinov",
-      "directors": "Илиан Метев",
-      "producers": "Илиан Метев, Ингмар Трост, Simone Betz, Vladimir Karanikolov, Petko Lungov, Bettina Müller",
-      "premiere_ru": null,
-      "premiere": "2017-08-06",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 6.3,
-      "time": "01:23",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1047842.jpg",
-      "description": "Мила, молодая пианистка, пытается подготовиться к прослушиванию за границей, но ее брат, Ники, продолжает отвлекать ее своим абсурдным поведением. Тодор, их отец-астрофизик, кажется, не в состоянии справиться с тревогами своих детей. Семейный портрет в их последнее лето вместе.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEBRip",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEBRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Приглашение к разводу",
-      "original_name": "Divorce Invitation",
-      "alternative_name": null,
-      "year": 2012,
-      "id_kp": 603324,
-      "alternative_id_kp": null,
-      "id_imdb": "tt2006721",
-      "id_tmdb": 115446,
-      "id_world_art": null,
-      "token_movie": "fbe4f6d801df081ecf834e871a1e97",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:24:48",
-      "country": "США",
+      "date": "2021-02-19 10:50:27",
+      "country": "Россия",
       "category": "Фильм",
       "genre": "комедия, мелодрама",
-      "actors": "Джэми-Линн Сиглер, Джонатан Беннетт, Эллиотт Гулд, Лэйни Казан, Ричард Кайнд, Аманда Лейтон, Андреа Бауэн, Пол Сорвино, Грег Эвиган, Дженнифер Элиз Кокс, Надя Бьорлин, Дэвид Блу, Робин Райкер, Маив Куинлэн, Робин Ли, Ларри Салливан, Пэт Кроуфорд Браун, Мэтт Энджел, Джэдон Уэллс, Кит Робинсон",
-      "directors": "С. Кришна Редди",
-      "producers": "Венкат, Шейк Абдул Хамид, Bala Rajasekharuni, Редди Сринивас, Ram Reddy Sure, Алан Ноэль Вега",
-      "premiere_ru": null,
-      "premiere": "2012-11-15",
-      "age_restrictions": 16,
-      "rating_mpaa": null,
-      "rating_kp": 5.3,
-      "rating_imdb": 4.6,
-      "time": "01:50",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/603324.jpg",
-      "description": "Майк встречает бывшую подружку, и былые чувства вспыхивают вновь. Вот только он женат, и его брачный контракт сулит ему немалые неприятности...",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Профессиональный двухголосый",
-      "translation_iframe": {
-        "121": {
-          "name": "Профессиональный двухголосый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Прощайте, семидесятые",
-      "original_name": "Goodbye Seventies",
-      "alternative_name": null,
-      "year": 2020,
-      "id_kp": 1403594,
-      "alternative_id_kp": null,
-      "id_imdb": "tt13010786",
-      "id_tmdb": 739997,
-      "id_world_art": null,
-      "token_movie": "458e3d96f6fe47ee2d378a7fefedd1",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:19:08",
-      "country": "США",
-      "category": "Фильм",
-      "genre": "драма",
-      "actors": "Chris Rehmann, Ken Kaissar, Justin Ivan Brown, James Kleinmann, Andrew Cawley, Marie Smalley, Джули Чапин, Ashlie Burgun, Джек Уотерс, Fatima Lewis, Кевин «Флотилла ДэБарже» Джозеф, Graham Straus, Mike Dreyden, Тодд Вероу, Чарльз Льюм, Tom Galindo, Jono Mainelli, Ален Лафорест, Rico Noguchi, Chris Shields",
-      "directors": "Тодд Вероу",
-      "producers": "James Kleinmann, Чарльз Льюм, Тодд Вероу",
-      "premiere_ru": null,
-      "premiere": "2020-09-28",
-      "age_restrictions": 18,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 3.8,
-      "time": "01:32",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1403594.jpg",
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "В глубине души",
-      "original_name": "Deep down",
-      "alternative_name": null,
-      "year": 2019,
-      "id_kp": 1264394,
-      "alternative_id_kp": null,
-      "id_imdb": "tt10230284",
-      "id_tmdb": 796023,
-      "id_world_art": null,
-      "token_movie": "457a4f7e648f6d47ce70eab474cc76",
-      "last_season": null,
-      "last_episode": null,
-      "date": "2021-02-18 05:13:11",
-      "country": "Испания",
-      "category": "Фильм",
-      "genre": "драма, короткометражка, мелодрама",
-      "actors": "Santi Bayón, Сарас Хиль, Марта Вайвз, Ромина Кокка, Anna Comet",
-      "directors": "Игнасио Франциско",
-      "producers": "Игнасио Франциско",
-      "premiere_ru": null,
-      "premiere": "2019-10-23",
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": 7.4,
-      "time": "00:13",
-      "tagline": null,
-      "poster": null,
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 1,
-      "quality": "WEB-DL",
-      "translation": "Многоголосый закадровый",
-      "translation_iframe": {
-        "72": {
-          "name": "Многоголосый закадровый",
-          "quality": "WEB-DL",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Бобры",
-      "original_name": null,
-      "alternative_name": null,
-      "year": 1968,
-      "id_kp": null,
-      "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
-      "id_world_art": null,
-      "token_movie": "c0b84db27776432a9ef2bc785a9d62",
-      "last_season": 1,
-      "last_episode": 2,
-      "date": "2021-02-18 01:52:30",
-      "country": null,
-      "category": "Сериал",
-      "genre": null,
-      "actors": "",
-      "directors": "",
-      "producers": "",
+      "actors": "Сергей Горобченко, Борис Клюев, Наталья Панова, Алла Юганова, Тамара Цыганова, Ирэна Кокрятская, Евгения Брик, Михаил Владимиров, Валентина Малявина, Ирина Дериенко, Анатолий Калмыков, Константин Глушков, Анна Гуляренко, Наталия Житкова",
+      "directors": "Наталья Родионова",
+      "producers": "Сергей Куликов, Валерий Оня, Анатолий Чижиков",
       "premiere_ru": null,
       "premiere": null,
-      "age_restrictions": null,
+      "age_restrictions": 12,
       "rating_mpaa": null,
-      "rating_kp": null,
+      "rating_kp": 6.2,
       "rating_imdb": null,
-      "time": null,
+      "time": "01:20",
       "tagline": null,
-      "poster": null,
-      "description": null,
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/280193.jpg",
+      "description": "У работающего в солидной фирме Влада все в порядке: хорошая квартира, высокая зарплата, красавица невеста. Но буквально накануне свадьбы, его невеста вдруг начинает делать все, чтобы заставить Влада ревновать. По совету друга Влад отвечает ей тем же: заказывает Катю — девушку по сопровождению, и улетает с ней в Сочи. \n\rНо во время отпуска выясняется, что Катя отнюдь не похожа на девушек своей профессии. Влад разглядел в ней нежную и трепетную душу. И теперь уже выбор невесты для него не так очевиден, как был прежде. Окончательный выбор ему придется делать в самый день свадьбы…",
       "iframe": "",
       "iframe_trailer": null,
-      "category_id": 2,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "DVDRip",
+      "category_id": 1,
+      "quality": "DVB",
       "translation": "Не требуется",
       "translation_iframe": {
         "82": {
           "name": "Не требуется",
-          "quality": "DVDRip",
+          "quality": "DVB",
           "iframe": "",
           "adv": false
         }
       }
     },
     {
-      "name": "Большие неприятности",
-      "original_name": null,
-      "alternative_name": "Новые большие неприятности",
-      "year": 1961,
-      "id_kp": 46179,
-      "alternative_id_kp": "259930",
-      "id_imdb": "tt0211966",
-      "id_tmdb": 595142,
-      "id_world_art": null,
-      "token_movie": "cca3cb68d0c600d524aa87f9e10670",
-      "last_season": 1,
-      "last_episode": 2,
-      "date": "2021-02-18 01:52:06",
-      "country": "СССР",
-      "category": "Сериал",
-      "genre": "комедия, короткометражка, мультфильм",
-      "actors": "Мария Виноградова",
-      "directors": "Валентина Брумберг, Зинаида Брумберг",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": null,
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": 7.8,
-      "rating_imdb": 6.9,
-      "time": "00:10",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/46179.jpg",
-      "description": "Фильм о семье, в которой папа - расхититель государственной собственности, дочь - охотница за выгодными кавалерами, а сын - оболтус и пьяница. Закадровый текст представляет собой рассказ маленькой девочки, которая повторяет непонятные ей идиоматические выражения («налево холодильники пустил», «хлещет водку», «потерял голову»…) и которые показаны в кадре так, как она себе представляет их в прямом смысле.",
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 2,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "DVDRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "DVDRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "DVDRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Бачо",
-      "original_name": null,
+      "name": "История любви Джаянты Бхая",
+      "original_name": "Jayantabhai Ki Luv Story",
       "alternative_name": null,
-      "year": 1978,
-      "id_kp": null,
+      "year": 2013,
+      "id_kp": 733117,
       "alternative_id_kp": null,
-      "id_imdb": null,
-      "id_tmdb": null,
+      "id_imdb": "tt2622130",
+      "id_tmdb": 189542,
       "id_world_art": null,
-      "token_movie": "da7861d437371babceffbd21a2b9bd",
-      "last_season": 1,
-      "last_episode": 2,
-      "date": "2021-02-18 01:51:31",
-      "country": null,
-      "category": "Сериал",
-      "genre": null,
-      "actors": "",
-      "directors": "",
-      "producers": "",
-      "premiere_ru": null,
-      "premiere": null,
-      "age_restrictions": null,
-      "rating_mpaa": null,
-      "rating_kp": null,
-      "rating_imdb": null,
-      "time": null,
-      "tagline": null,
-      "poster": null,
-      "description": null,
-      "iframe": "",
-      "iframe_trailer": null,
-      "category_id": 2,
-      "seasons_count": 1,
-      "seasons": {
-        "1": {
-          "iframe": "",
-          "season": 1,
-          "episodes": {
-            "2": {
-              "iframe": "",
-              "episode": 2,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "SATRip",
-                  "iframe": ""
-                }
-              }
-            },
-            "1": {
-              "iframe": "",
-              "episode": 1,
-              "translation": {
-                "82": {
-                  "translation": "Не требуется",
-                  "quality": "SATRip",
-                  "iframe": ""
-                }
-              }
-            }
-          }
-        }
-      },
-      "quality": "SATRip",
-      "translation": "Не требуется",
-      "translation_iframe": {
-        "82": {
-          "name": "Не требуется",
-          "quality": "SATRip",
-          "iframe": "",
-          "adv": false
-        }
-      }
-    },
-    {
-      "name": "Обещание",
-      "original_name": "Obietnica",
-      "alternative_name": null,
-      "year": 2014,
-      "id_kp": 825230,
-      "alternative_id_kp": null,
-      "id_imdb": "tt3509804",
-      "id_tmdb": 295410,
-      "id_world_art": null,
-      "token_movie": "422d78b9ea118ce4175c5f2d8e142d",
+      "token_movie": "5d529c175effc3e10318a439b8a3ea",
       "last_season": null,
       "last_episode": null,
-      "date": "2021-02-17 22:36:59",
-      "country": "Дания, Польша",
+      "date": "2021-02-19 10:49:29",
+      "country": "Индия",
       "category": "Фильм",
-      "genre": "драма, триллер",
-      "actors": "Элиза Рыцембель, Mateusz Wieclawek, Магдалена Поплавска, Давид Огродник, Анджей Хыра, Ювита Будник, Бартломей Топа, Никодем Розбички, Sara Sobania, Мацей Цемпура, Michal Surosz, Луксурия Астарот, Amanda Trzcinska, Стине Стенгаде, Ellen-Mai Aalling Teilmann, Анджей Конопка, Кшиштоф Бауман, Paulina Sieniarska, Miroslaw Kupiec, Anna Januszewska",
-      "directors": "Анна Казеяк",
-      "producers": "Лукаш Дзецоль, Jesper Morthorst",
+      "genre": "боевик, комедия, мелодрама",
+      "actors": "Вишванатх Чаттерджи, Закир Хуссэйн, Нассер, Вивек Оберой, Неха Шарма, Рахул Сингх",
+      "directors": "Vinnil Markan",
+      "producers": "Кумар Садхурам Таурани, Раджу Хингорани, Сумит Мишра",
       "premiere_ru": null,
-      "premiere": "2014-02-13",
+      "premiere": "2013-02-15",
       "age_restrictions": null,
       "rating_mpaa": null,
-      "rating_kp": 5,
-      "rating_imdb": 4.8,
-      "time": "01:37",
-      "tagline": null,
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/825230.jpg",
-      "description": "Фильм показывает жизнь современных старшеклассников. Четырнадцатилетняя Лилианна заканчивает учится свой предпоследний год в начальной школе. Ее родители разведены, но поддерживают дружеские отношения. Отец Лилианны Конрад живет своей размеренной жизнью в Дании, а сама Лилианна со своей матерью - Сильвией и ее новым другом Даниэлем на окраине Щецина. Незадолго до окончания учебного года,в ее жизни случается то, что изменит ее навсегда. Лилианна узнает, что ее бойфренд Янек целовал другую девушку на одной вечеринке. Она не может с этим смириться и ставит ему ультиматум. Теперь у Янека только двадцать четыре часа, чтобы доказать свою любовь, иначе в противном случае он может забыть о ней.",
+      "rating_kp": 7.4,
+      "rating_imdb": 5.3,
+      "time": "02:10",
+      "tagline": "Luvgiri more danger than Bhaigiri!",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/733117.jpg",
+      "description": "Симран приехала в Мумбаи из маленького провинциального городка, была принята на хорошую должность, сняла роскошную квартиру в приличном районе, в общем, неплохо устроилась. Но наслаждаться этой респектабельной жизнью ей довелось недолго. После того как она потеряла работу, ей пришлось переехать в маленькую квартирку в криминальном районе Мумбаи, где её соседом оказался уличный бандит Джаянта, который считает, что все его должны бояться и низко кланяться. Под его контролем находятся мелкие воришки, а сам он работает на Алекса Пандияна, бывшего полицейского, ставшего главарем мафии. У того, в свою очередь, постоянные разборки с другим мафиози Афтабхаи.",
       "iframe": "",
       "iframe_trailer": null,
       "category_id": 1,
       "quality": "DVDRip",
-      "translation": "Одноголосый закадровый",
+      "translation": "Профессиональный многоголосый",
       "translation_iframe": {
-        "75": {
-          "name": "Одноголосый закадровый",
+        "87": {
+          "name": "Профессиональный многоголосый",
           "quality": "DVDRip",
           "iframe": "",
           "adv": false
